@@ -15,7 +15,7 @@ end
 local selectedItemId = nil
 
 this.createRightPanelUI = function()
-    local frame = ENV.UI.frame
+    local frame = ENV.UI.mainFrame
 
     -- Right Panel
     local rightPanel = CreateFrame("Frame", nil, frame, "InsetFrameTemplate")

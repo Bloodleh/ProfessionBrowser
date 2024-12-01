@@ -57,33 +57,37 @@ this._updateView = function()
 end
 
 this._setButtonStates = function()
-    local ui = ENV.UI
+    local frame = ENV.UI.mainFrame
 
     if ENV.save.backStack:isEmpty() then
-        ui.frame.buttonBar.backButton:Disable()
+        frame.buttonBar.backButton:Disable()
     else
-        ui.frame.buttonBar.backButton:Enable()
+        frame.buttonBar.backButton:Enable()
     end
 
     if ENV.save.nextStack:isEmpty() then
-        ui.frame.buttonBar.nextButton:Disable()
+        frame.buttonBar.nextButton:Disable()
     else
-        ui.frame.buttonBar.nextButton:Enable()
+        frame.buttonBar.nextButton:Enable()
     end
 end
 
 this._showHomeView = function()
-    ENV.UI.frame.homePanel:Show()
-    ENV.UI.frame.leftPanel:Hide()
-    ENV.UI.frame.rightPanel:Hide()
-    ENV.UI.frame.buttonBar.searchBox:Disable()
+    local frame = ENV.UI.mainFrame
+
+    frame.homePanel:Show()
+    frame.leftPanel:Hide()
+    frame.rightPanel:Hide()
+    frame.buttonBar.searchBox:Disable()
 end
 
 this._showProfessionView = function(category, itemId)
-    ENV.UI.frame.homePanel:Hide()
-    ENV.UI.frame.leftPanel:Show()
-    ENV.UI.frame.rightPanel:Show()
-    ENV.UI.frame.buttonBar.searchBox:Enable()
+    local frame = ENV.UI.mainFrame
+
+    frame.homePanel:Hide()
+    frame.leftPanel:Show()
+    frame.rightPanel:Show()
+    frame.buttonBar.searchBox:Enable()
 
     if itemId then
         -- TODO

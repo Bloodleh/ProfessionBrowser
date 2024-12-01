@@ -20,7 +20,7 @@ this.GetSkillColor = function(playerSkill, skillLevel)
 end
 
 this.createLeftPanelUI = function()
-    local frame = ENV.UI.frame
+    local frame = ENV.UI.mainFrame
 
     -- Left Panel
     local leftPanel = CreateFrame("Frame", nil, frame, "InsetFrameTemplate")

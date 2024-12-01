@@ -3,7 +3,7 @@ ENV.UI = ENV.UI or {}
 local this = ENV.UI
 
 this.createHomePanelUI = function()
-    local frame = ENV.UI.frame
+    local frame = ENV.UI.mainFrame
 
     -- Home frame
     local homePanel = CreateFrame("Frame", nil, frame)
