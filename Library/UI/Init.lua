@@ -2,9 +2,11 @@ local addonName, ENV = ...
 ENV.UI = ENV.UI or {}
 local this = ENV.UI
 
+local frame
+
 this.initMainFrame = function()
     -- MAIN FRAME
-    local frame = CreateFrame("Frame", addonName, UIParent, "BasicFrameTemplateWithInset")
+    frame = CreateFrame("Frame", addonName, UIParent, "BasicFrameTemplateWithInset")
     this.mainFrame = frame
 
     frame:SetSize(ENV.Config.ui.width, ENV.Config.ui.height)
@@ -329,14 +331,438 @@ this.initMinimapButton = function()
     end)
 end
 
-this.initHomeFrame = function()
+this.initHomePanel = function()
+    -- HOME FRAME
+    local homePanel = CreateFrame("Frame", nil, frame)
+    frame.homePanel = homePanel
 
+    homePanel:Hide()
+
+    --homePanel:SetSize(600, 380)
+    homePanel:SetSize(ENV.Config.ui.width, ENV.Config.ui.height - 20)
+    homePanel:SetPoint("LEFT", frame, "LEFT", 0, -10)
+
+    -- HEADERS
+    local professionHeader = homePanel:CreateFontString(nil, "OVERLAY", "GameFontNormal")
+    homePanel.professionHeader = professionHeader
+
+    professionHeader:SetPoint("TOPLEFT", homePanel, "TOPLEFT", 20, -50)
+    professionHeader:SetText("Primary Professions")
+
+    local secondaryHeader = homePanel:CreateFontString(nil, "OVERLAY", "GameFontNormal")
+    homePanel.secondaryHeader = secondaryHeader
+
+    secondaryHeader:SetPoint("TOPLEFT", homePanel, "TOPLEFT", 20, -220)
+    secondaryHeader:SetText("Secondary Professions")
+
+    local otherHeader = homePanel:CreateFontString(nil, "OVERLAY", "GameFontNormal")
+    homePanel.otherHeader = otherHeader
+
+    otherHeader:SetPoint("TOPLEFT", homePanel, "TOPLEFT", 20, -290)
+    otherHeader:SetText("Other")
+
+    -- Function to create profession/skill boxes
+    local function CreateSkillBox(parent, skillData, xOffset, yOffset, type)
+        local box = CreateFrame("Frame", nil, parent)
+        box:SetSize(150, 40)
+        box:SetPoint("TOPLEFT", parent, "TOPLEFT", xOffset, yOffset)
+
+         -- Border
+        --local border = box:CreateTexture(nil, "BACKGROUND")
+        --border:SetAllPoints()
+        --border:SetColorTexture(0.5, 0.5, 0.5, 1) -- Gray border
+
+        -- Background
+        local bg = box:CreateTexture(nil, "ARTWORK")
+        bg:SetPoint("TOPLEFT", box, "TOPLEFT", 1, -1)
+        bg:SetPoint("BOTTOMRIGHT", box, "BOTTOMRIGHT", -1, 1)
+        bg:SetColorTexture(0, 0, 0, 0) -- Transparent by default
+
+        -- Icon
+        local icon = box:CreateTexture(nil, "OVERLAY")
+        icon:SetSize(30, 30)
+        icon:SetPoint("LEFT", box, "LEFT", 5, 0)
+        icon:SetTexture(skillData.icon or "Interface\\Icons\\INV_Misc_QuestionMark") -- Default icon if none provided
+
+        -- Text
+        local text = box:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
+        text:SetPoint("LEFT", icon, "RIGHT", 10, 0)
+        text:SetText(skillData.name)
+
+        local playerProfession = ENV.PlayerProfession.getProfession(skillData.name)
+        if (type == "primary_profession" or type == "secondary_profession") and playerProfession ~= nil then
+            text:SetTextColor(0, 1, 0, 1)
+            text:SetPoint("LEFT", icon, "RIGHT", 10, 10)
+
+            local levelText = box:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
+            levelText:SetPoint("LEFT", icon, "RIGHT", 10, -10)
+            levelText:SetTextColor(0, 1, 0, 1)
+            levelText:SetText(playerProfession.level .. "/" .. playerProfession.maxLevel)
+        end
+
+        -- Hover effect
+        box:EnableMouse(true)
+        box:SetScript("OnEnter", function()
+            bg:SetColorTexture(0.3, 0.3, 0.3, 0.5) -- Hover color
+        end)
+        box:SetScript("OnLeave", function()
+            bg:SetColorTexture(0, 0, 0, 0) -- Reset color
+        end)
+
+        -- Click behavior
+        box:SetScript("OnMouseUp", function()
+            print("Clicked on " .. skillData.name)
+            ENV.UI.navigateTo({
+                view = "profession",
+                category = nil,
+            })
+        end)
+
+        return box
+    end
+
+    -- Populate professions and secondary skills
+    local function PopulateHomePanel()
+        -- Layout settings
+        local xStart = 20
+        local xStep = 160 -- Space between items horizontally
+        local yStep = -50 -- Space between rows
+        local yOffset = -70
+        local itemsPerRow = 3
+
+        -- Populate professions (3 per row)
+        for i, item in ipairs(ENV.Config.homeItems.primaryProfessions) do
+            local xOffset = xStart + ((i - 1) % itemsPerRow) * xStep
+            if (i - 1) % itemsPerRow == 0 and i > 1 then
+                yOffset = yOffset + yStep -- Move to the next row
+            end
+            CreateSkillBox(homePanel, item, xOffset, yOffset, "primary_profession")
+        end
+
+        xStart = 20
+        xStep = 160
+        yStep = -50
+        yOffset = -240
+
+        -- Populate secondary skills (3 per row)
+        for i, item in ipairs(ENV.Config.homeItems.secondaryProfessions) do
+            local xOffset = xStart + ((i - 1) % itemsPerRow) * xStep
+            if (i - 1) % itemsPerRow == 0 and i > 1 then
+                yOffset = yOffset + yStep -- Move to the next row
+            end
+            CreateSkillBox(homePanel, item, xOffset, yOffset, "secondary_profession")
+        end
+
+        xStart = 20
+        xStep = 160
+        yStep = -50
+        yOffset = -310
+
+        -- Populate other (3 per row)
+        for i, item in ipairs(ENV.Config.homeItems.other) do
+            local xOffset = xStart + ((i - 1) % itemsPerRow) * xStep
+            if (i - 1) % itemsPerRow == 0 and i > 1 then
+                yOffset = yOffset + yStep -- Move to the next row
+            end
+            CreateSkillBox(homePanel, item, xOffset, yOffset, "other")
+        end
+    end
+
+    -- Initialize the home frame
+    PopulateHomePanel()
+end
+
+-- Skill level color logic
+this.GetSkillColor = function(playerSkill, skillLevel)
+    if playerSkill == -1 then
+        --return 1, 0, 0
+        return 1, 1, 1
+    end
+    if playerSkill >= skillLevel.gray then
+        return 0.5, 0.5, 0.5 -- Gray
+    elseif playerSkill >= skillLevel.green then
+        return 0, 1, 0 -- Green
+    elseif playerSkill >= skillLevel.yellow then
+        return 1, 1, 0 -- Yellow
+    else
+        return 1, 0.5, 0 -- Orange
+    end
 end
 
 this.initLeftPanel = function()
+    -- Left Panel
+    local leftPanel = CreateFrame("Frame", nil, frame, "InsetFrameTemplate")
+    frame.leftPanel = leftPanel
 
+    leftPanel:Hide()
+
+    leftPanel:SetSize(200, 310)
+    leftPanel:SetPoint("LEFT", frame, "LEFT", 10, -10)
+
+    local scrollFrame = CreateFrame("ScrollFrame", nil, leftPanel, "UIPanelScrollFrameTemplate")
+    leftPanel.scrollFrame = scrollFrame
+
+    scrollFrame:SetSize(180, 290)
+    scrollFrame:SetPoint("TOPLEFT", leftPanel, "TOPLEFT", 10, 0)
+    scrollFrame:SetPoint("BOTTOMRIGHT", leftPanel, "BOTTOMRIGHT", -10, 0)
+
+    local scrollChild = CreateFrame("Frame", nil, scrollFrame)
+    scrollFrame.scrollChild = scrollChild
+
+    scrollFrame:SetScrollChild(scrollChild)
+    scrollChild:SetSize(scrollFrame:GetWidth(), 500)
+
+    -- local itemList = {
+    --     {name = "Example Item", icon = 134400, materials = {
+    --         {name = "Material 1", icon = 134400, count = 0, required = 1},
+    --         {name = "Material 2", icon = 134401, count = 2, required = 3},
+    --     }},
+    --     {name = "Another Item", icon = 134401, materials = {
+    --         {name = "Material A", icon = 134402, count = 1, required = 1},
+    --     }},
+    -- }
+
+    local itemList = ENV.Data.Engineering
+    local i = 0
+
+    local playerProfession = ENV.PlayerProfession.getProfession("Engineering")
+    local playerSkill = playerProfession and playerProfession.level or -1
+
+    for itemId, item in pairs(itemList) do
+        i = i + 1
+
+        local row = CreateFrame("Frame", nil, scrollChild)
+        row:SetSize(scrollFrame:GetWidth(), 20)
+        row:SetPoint("TOPLEFT", scrollChild, "TOPLEFT", 0, -10 - (i - 1) * 25)
+
+        local r, g, b = this.GetSkillColor(playerSkill, item.levels or { req = 0, yellow = 0, green = 0, gray = 0 })
+
+        -- Background color
+        local bg = row:CreateTexture(nil, "BACKGROUND")
+        bg:SetAllPoints(row)
+        bg:SetColorTexture(0, 0, 0, 0)
+
+        -- Text
+        local fontString = row:CreateFontString(nil, "OVERLAY", "GameFontNormal")
+        fontString:SetPoint("LEFT", row, "LEFT", 10, 0)
+        fontString:SetText(item.name)
+        fontString:SetTextColor(r, g, b)
+
+        row:EnableMouse(true)
+
+        row:SetScript("OnMouseUp", function()
+            frame.rightPanel:UpdateSelectedItem(item, itemId)
+            bg:SetColorTexture(r, g, b, 0.8)
+            fontString:SetTextColor(1, 1, 1)
+        end)
+
+        row:SetScript("OnEnter", function()
+            bg:SetColorTexture(r, g, b, 0.25)
+            fontString:SetTextColor(1, 1, 1)
+        end)
+
+        row:SetScript("OnLeave", function()
+            bg:SetColorTexture(0, 0, 0, 0)
+            fontString:SetTextColor(r, g, b) 
+        end)
+    end
 end
 
+this.testLookUpMaterial = function(materialId)
+    local itemList = ENV.Data.Engineering
+    for itemId, item in pairs(itemList) do
+        if materialId == itemId then
+            return item
+        end
+    end
+    return nil
+end
+
+local selectedItemId = nil
+
 this.initRightPanel = function()
-    
+    -- Right Panel
+    local rightPanel = CreateFrame("Frame", nil, frame, "InsetFrameTemplate")
+    frame.rightPanel = rightPanel
+
+    rightPanel:Hide()
+
+    rightPanel:SetSize(370, 310)
+    rightPanel:SetPoint("RIGHT", frame, "RIGHT", -10, -10)
+
+    local itemIcon = rightPanel:CreateTexture(nil, "ARTWORK")
+    itemIcon:SetSize(40, 40)
+    itemIcon:SetPoint("TOPLEFT", rightPanel, "TOPLEFT", 10, -10)
+
+    -- Number Overlay for Item Icon
+    local craftNumber = rightPanel:CreateFontString(nil, "OVERLAY", "GameFontNormal")
+    craftNumber:SetPoint("BOTTOMRIGHT", itemIcon, "BOTTOMRIGHT", 0, 0)
+    craftNumber:SetTextColor(1, 1, 1, 1)
+    craftNumber:SetFont(ENV.Config.ui.font, 14, "OUTLINE")
+    craftNumber:SetText("") -- Start with no text
+    craftNumber:Hide() -- Hide initially
+
+    -- Enable Mouse Interaction for the Tooltip
+    itemIcon:EnableMouse(true)
+    itemIcon:SetScript("OnEnter", function()
+        if selectedItemId then
+            GameTooltip:SetOwner(itemIcon, "ANCHOR_RIGHT")
+            GameTooltip:SetItemByID(selectedItemId)
+            GameTooltip:Show()
+        end
+    end)
+    itemIcon:SetScript("OnLeave", function()
+        GameTooltip:Hide()
+    end)
+
+    local itemName = rightPanel:CreateFontString(nil, "OVERLAY", "GameFontNormalLarge")
+    itemName:SetPoint("LEFT", itemIcon, "RIGHT", 10, 0)
+    itemName:SetText("Select an item")
+
+    -- Skill Level Info
+    local skillLevelInfo = rightPanel:CreateFontString(nil, "OVERLAY", "GameFontNormal")
+    skillLevelInfo:SetPoint("TOPLEFT", itemIcon, "BOTTOMLEFT", 0, -10)
+
+    local reagentsTitle = rightPanel:CreateFontString(nil, "OVERLAY", "GameFontNormal")
+    reagentsTitle:SetPoint("TOPLEFT", itemIcon, "BOTTOMLEFT", 0, -40)
+    reagentsTitle:SetText("Reagents:")
+
+    local materials = {}
+
+    function rightPanel:UpdateSelectedItem(item, itemId)
+        itemIcon:SetTexture(item.iconId or 134400)
+        itemName:SetText(item.name or "???")
+
+        selectedItemId = itemId
+
+        -- Set the craft number overlay
+        if item.count then
+            craftNumber:SetText(item.count)
+            craftNumber:Show()
+        else
+            craftNumber:SetText("")
+            craftNumber:Hide() -- Hide if nil or 1
+        end
+
+        local learnLevel = -1
+        local orangeLevel = ""
+        local yellowLevel = ""
+        local greenLevel = ""
+        local grayLevel = ""
+
+        if item.levels.learn then
+            learnLevel = item.levels.learn
+        end
+        if item.levels.orange then
+            orangeLevel = tostring(item.levels.orange) .. " "
+        end
+        if item.levels.yellow then
+            yellowLevel = tostring(item.levels.yellow) .. " "
+        end
+        if item.levels.green then
+            greenLevel = tostring(item.levels.green) .. " "
+        end
+        if item.levels.gray then
+            grayLevel = tostring(item.levels.gray) .. " "
+        end
+
+        skillLevelInfo:SetFormattedText(
+            "|cFFFFFFFF%s (%d)|r - |cFFFF8000%s|r|cFFFFFF00%s|r|cFF00FF00%s|r|cFF808080%s|r",
+            item.type, learnLevel, orangeLevel, yellowLevel, greenLevel, grayLevel
+        )
+
+        for _, materialRow in pairs(materials) do
+            materialRow:Hide()
+        end
+        materials = {}
+
+        local materialList = item.mats or {}
+        local i = 0
+        for materialId, materialCount in pairs(materialList) do
+            local material = this.testLookUpMaterial(materialId)
+            i = i + 1
+            local row = materials[i] or CreateFrame("Frame", nil, rightPanel)
+            row:SetSize(rightPanel:GetWidth() - 20, 30)
+            row:SetPoint("TOPLEFT", rightPanel, "TOPLEFT", 10, -110 - (i - 1) * 30)
+
+            if not row.icon then
+                row.icon = row:CreateTexture(nil, "ARTWORK")
+                row.icon:SetSize(25, 25)
+                row.icon:SetPoint("LEFT", row, "LEFT", 0, 0)
+            end
+
+            if material then
+                row.icon:SetTexture(material.iconId or 134400)
+
+                row.icon:EnableMouse(true)
+                row.icon:SetScript("OnEnter", function()
+                    if materialId then
+                        GameTooltip:SetOwner(row.icon, "ANCHOR_RIGHT")
+                        GameTooltip:SetItemByID(materialId)
+                        GameTooltip:Show()
+                    end
+                end)
+                row.icon:SetScript("OnLeave", function()
+                    GameTooltip:Hide()
+                end)
+            else
+                row.icon:SetTexture(134400)
+                row.icon:EnableMouse(false)
+                row.icon:SetScript("OnEnter", nil)
+                row.icon:SetScript("OnLeave", nil)
+            end
+
+            if not row.name then
+                row.name = row:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
+                row.name:SetPoint("LEFT", row.icon, "RIGHT", 10, 0)
+            end
+
+            if material then
+                row.name:SetText(material.name or "[id:" .. materialId .. "]")
+            else
+                row.name:SetText("[id:" .. materialId .. "]")
+            end
+
+            if not row.count then
+                row.count = row:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
+                row.count:SetPoint("RIGHT", row, "RIGHT", -10, 0)
+            end
+            --row.count:SetText(string.format("%d/%d", 0, materialCount))
+            row.count:SetText(string.format("%d", materialCount))
+
+            -- Enable mouse interaction for the row
+            row:EnableMouse(true)
+            row:SetScript("OnMouseUp", function()
+                print("Clicked on material:", material.name)
+            end)
+
+            row:SetScript("OnEnter", function()
+                row.icon:SetVertexColor(1, 1, 0) -- Highlight icon
+                row.name:SetTextColor(1, 1, 0) -- Highlight name
+            end)
+
+            row:SetScript("OnLeave", function()
+                row.icon:SetVertexColor(1, 1, 1) -- Reset icon color
+                row.name:SetTextColor(1, 1, 1) -- Reset name color
+            end)
+
+            -- row.icon:SetScript("OnEnter", function()
+            --     GameTooltip:SetOwner(row.icon, "ANCHOR_RIGHT")
+
+            --     if material then
+            --         GameTooltip:SetText(material.name or "[id:" .. materialId .. "]", 1, 1, 1)
+            --     else
+            --         GameTooltip:SetText("[id:" .. materialId .. "]", 1, 1, 1)
+            --     end
+
+            --     GameTooltip:Show()
+            -- end)
+            -- row.icon:SetScript("OnLeave", function()
+            --     GameTooltip:Hide()
+            -- end)
+
+            row:Show()
+            materials[i] = row
+        end
+    end
 end

@@ -21,7 +21,7 @@ function this.onAddonLoaded(self, argAddonName)
 
     ENV.UI.initMainFrame()
     ENV.UI.initMinimapButton()
-    ENV.UI.initHomeFrame()
+    ENV.UI.initHomePanel()
     ENV.UI.initLeftPanel()
     ENV.UI.initRightPanel()
 
