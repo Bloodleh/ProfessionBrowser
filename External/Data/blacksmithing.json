@@ -1,0 +1,7094 @@
+[
+    {
+        "itemId": 10421,
+        "spellId": 12260,
+        "name": "Rough Copper Vest",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 15,
+            "r3": 35,
+            "r4": 55
+        }
+    },
+    {
+        "itemId": 2862,
+        "spellId": 2660,
+        "name": "Rough Sharpening Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2835,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 15,
+            "r3": 35,
+            "r4": 55
+        }
+    },
+    {
+        "itemId": 3239,
+        "spellId": 3115,
+        "name": "Rough Weightstone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2835,
+                "count": 1
+            },
+            {
+                "itemId": 2589,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 15,
+            "r3": 35,
+            "r4": 55
+        }
+    },
+    {
+        "itemId": 2853,
+        "spellId": 2663,
+        "name": "Copper Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 20,
+            "r3": 40,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 2852,
+        "spellId": 2662,
+        "name": "Copper Chain Pants",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 50,
+            "r3": 70,
+            "r4": 90
+        }
+    },
+    {
+        "itemId": 2844,
+        "spellId": 2737,
+        "name": "Copper Mace",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 6
+            },
+            {
+                "itemId": 2880,
+                "count": 1
+            },
+            {
+                "itemId": 2589,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 15,
+            "r1": 15,
+            "r2": 55,
+            "r3": 75,
+            "r4": 95
+        }
+    },
+    {
+        "itemId": 2845,
+        "spellId": 2738,
+        "name": "Copper Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 6
+            },
+            {
+                "itemId": 2880,
+                "count": 1
+            },
+            {
+                "itemId": 2589,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 20,
+            "r1": 20,
+            "r2": 60,
+            "r3": 80,
+            "r4": 100
+        }
+    },
+    {
+        "itemId": 3469,
+        "spellId": 3319,
+        "name": "Copper Chain Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 8
+            }
+        ],
+        "lvl": {
+            "req": 20,
+            "r1": 20,
+            "r2": 60,
+            "r3": 80,
+            "r4": 100
+        }
+    },
+    {
+        "itemId": 3470,
+        "spellId": 3320,
+        "name": "Rough Grinding Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2835,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 25,
+            "r1": 25,
+            "r2": 45,
+            "r3": 65,
+            "r4": 85
+        }
+    },
+    {
+        "itemId": 2847,
+        "spellId": 2739,
+        "name": "Copper Shortsword",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 6
+            },
+            {
+                "itemId": 2880,
+                "count": 1
+            },
+            {
+                "itemId": 2589,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 25,
+            "r1": 25,
+            "r2": 65,
+            "r3": 85,
+            "r4": 105
+        }
+    },
+    {
+        "itemId": 7955,
+        "spellId": 9983,
+        "name": "Copper Claymore",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 10
+            },
+            {
+                "itemId": 2880,
+                "count": 2
+            },
+            {
+                "itemId": 3470,
+                "count": 1
+            },
+            {
+                "itemId": 2318,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": 30,
+            "r2": 70,
+            "r3": 90,
+            "r4": 110
+        }
+    },
+    {
+        "itemId": 7166,
+        "spellId": 8880,
+        "name": "Copper Dagger",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 6
+            },
+            {
+                "itemId": 2880,
+                "count": 1
+            },
+            {
+                "itemId": 3470,
+                "count": 1
+            },
+            {
+                "itemId": 2318,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": 30,
+            "r2": 70,
+            "r3": 90,
+            "r4": 110
+        }
+    },
+    {
+        "itemId": 3488,
+        "spellId": 3293,
+        "name": "Copper Battle Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 12
+            },
+            {
+                "itemId": 2880,
+                "count": 2
+            },
+            {
+                "itemId": 774,
+                "count": 2
+            },
+            {
+                "itemId": 3470,
+                "count": 2
+            },
+            {
+                "itemId": 2318,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 35,
+            "r1": 35,
+            "r2": 75,
+            "r3": 95,
+            "r4": 115
+        }
+    },
+    {
+        "itemId": 2851,
+        "spellId": 2661,
+        "name": "Copper Chain Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 35,
+            "r1": 35,
+            "r2": 75,
+            "r3": 95,
+            "r4": 115
+        }
+    },
+    {
+        "itemId": 3471,
+        "spellId": 3321,
+        "name": "Copper Chain Vest",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 8
+            },
+            {
+                "itemId": 774,
+                "count": 1
+            },
+            {
+                "itemId": 3470,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 35,
+            "r1": 35,
+            "r2": 75,
+            "r3": 95,
+            "r4": 115
+        }
+    },
+    {
+        "itemId": 3472,
+        "spellId": 3323,
+        "name": "Runed Copper Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 8
+            },
+            {
+                "itemId": 3470,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 40,
+            "r1": 40,
+            "r2": 80,
+            "r3": 100,
+            "r4": 120
+        }
+    },
+    {
+        "itemId": 3473,
+        "spellId": 3324,
+        "name": "Runed Copper Pants",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 8
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 3470,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 45,
+            "r1": 45,
+            "r2": 85,
+            "r3": 105,
+            "r4": 125
+        }
+    },
+    {
+        "itemId": 3474,
+        "spellId": 3325,
+        "name": "Gemmed Copper Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 8
+            },
+            {
+                "itemId": 818,
+                "count": 1
+            },
+            {
+                "itemId": 774,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 60,
+            "r1": 60,
+            "r2": 100,
+            "r3": 120,
+            "r4": 140
+        }
+    },
+    {
+        "itemId": 2863,
+        "spellId": 2665,
+        "name": "Coarse Sharpening Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2836,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 65,
+            "r1": 65,
+            "r2": 65,
+            "r3": 72,
+            "r4": 80
+        }
+    },
+    {
+        "itemId": 3240,
+        "spellId": 3116,
+        "name": "Coarse Weightstone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2836,
+                "count": 1
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 65,
+            "r1": 65,
+            "r2": 65,
+            "r3": 72,
+            "r4": 80
+        }
+    },
+    {
+        "itemId": 6214,
+        "spellId": 7408,
+        "name": "Heavy Copper Maul",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 12
+            },
+            {
+                "itemId": 2880,
+                "count": 2
+            },
+            {
+                "itemId": 2318,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 65,
+            "r1": 65,
+            "r2": 105,
+            "r3": 125,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 2857,
+        "spellId": 2666,
+        "name": "Runed Copper Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 10
+            }
+        ],
+        "lvl": {
+            "req": 70,
+            "r1": 70,
+            "r2": 110,
+            "r3": 130,
+            "r4": 150
+        }
+    },
+    {
+        "itemId": 3489,
+        "spellId": 3294,
+        "name": "Thick War Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 10
+            },
+            {
+                "itemId": 2880,
+                "count": 2
+            },
+            {
+                "itemId": 2842,
+                "count": 2
+            },
+            {
+                "itemId": 3470,
+                "count": 2
+            },
+            {
+                "itemId": 2318,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 70,
+            "r1": 70,
+            "r2": 110,
+            "r3": 130,
+            "r4": 150
+        }
+    },
+    {
+        "itemId": 3478,
+        "spellId": 3326,
+        "name": "Coarse Grinding Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2836,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 75,
+            "r3": 87,
+            "r4": 100
+        }
+    },
+    {
+        "itemId": 2864,
+        "spellId": 2667,
+        "name": "Runed Copper Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 12
+            },
+            {
+                "itemId": 1210,
+                "count": 1
+            },
+            {
+                "itemId": 3470,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 80,
+            "r1": 80,
+            "r2": 120,
+            "r3": 140,
+            "r4": 160
+        }
+    },
+    {
+        "itemId": 2854,
+        "spellId": 2664,
+        "name": "Runed Copper Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 10
+            },
+            {
+                "itemId": 3470,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 90,
+            "r1": 90,
+            "r2": 115,
+            "r3": 127,
+            "r4": 140
+        }
+    },
+    {
+        "itemId": 6350,
+        "spellId": 7817,
+        "name": "Rough Bronze Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 6
+            },
+            {
+                "itemId": 3470,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 95,
+            "r1": 95,
+            "r2": 125,
+            "r3": 140,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 3487,
+        "spellId": 3292,
+        "name": "Heavy Copper Broadsword",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 14
+            },
+            {
+                "itemId": 2880,
+                "count": 2
+            },
+            {
+                "itemId": 818,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 95,
+            "r1": 95,
+            "r2": 135,
+            "r3": 155,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 15869,
+        "spellId": 19666,
+        "name": "Silver Skeleton Key",
+        "count": "2",
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2842,
+                "count": 1
+            },
+            {
+                "itemId": 3470,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 100,
+            "r3": 110,
+            "r4": 120
+        }
+    },
+    {
+        "itemId": 6338,
+        "spellId": 7818,
+        "name": "Silver Rod",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2842,
+                "count": 1
+            },
+            {
+                "itemId": 3470,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 105,
+            "r3": 107,
+            "r4": 110
+        }
+    },
+    {
+        "itemId": 6731,
+        "spellId": 8367,
+        "name": "Ironforge Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 16
+            },
+            {
+                "itemId": 818,
+                "count": 2
+            },
+            {
+                "itemId": 3470,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 140,
+            "r3": 160,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 3848,
+        "spellId": 3491,
+        "name": "Big Bronze Knife",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 6
+            },
+            {
+                "itemId": 2880,
+                "count": 4
+            },
+            {
+                "itemId": 3470,
+                "count": 2
+            },
+            {
+                "itemId": 818,
+                "count": 1
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 105,
+            "r1": 105,
+            "r2": 135,
+            "r3": 150,
+            "r4": 165
+        }
+    },
+    {
+        "itemId": 2866,
+        "spellId": 2670,
+        "name": "Rough Bronze Cuirass",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 7
+            }
+        ],
+        "lvl": {
+            "req": 105,
+            "r1": 105,
+            "r2": 145,
+            "r3": 160,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 2865,
+        "spellId": 2668,
+        "name": "Rough Bronze Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 105,
+            "r1": 105,
+            "r2": 145,
+            "r3": 160,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 2848,
+        "spellId": 2740,
+        "name": "Bronze Mace",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 6
+            },
+            {
+                "itemId": 2880,
+                "count": 4
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 140,
+            "r3": 155,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 5540,
+        "spellId": 6517,
+        "name": "Pearl-handled Dagger",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 6
+            },
+            {
+                "itemId": 3466,
+                "count": 1
+            },
+            {
+                "itemId": 5498,
+                "count": 2
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 140,
+            "r3": 155,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 3480,
+        "spellId": 3328,
+        "name": "Rough Bronze Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 5
+            },
+            {
+                "itemId": 1210,
+                "count": 1
+            },
+            {
+                "itemId": 3478,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 140,
+            "r3": 155,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 2849,
+        "spellId": 2741,
+        "name": "Bronze Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 7
+            },
+            {
+                "itemId": 2880,
+                "count": 4
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 115,
+            "r1": 115,
+            "r2": 145,
+            "r3": 160,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 2850,
+        "spellId": 2742,
+        "name": "Bronze Shortsword",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 5
+            },
+            {
+                "itemId": 2880,
+                "count": 4
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 150,
+            "r3": 165,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 2868,
+        "spellId": 2672,
+        "name": "Patterned Bronze Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 5
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 150,
+            "r3": 165,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 2871,
+        "spellId": 2674,
+        "name": "Heavy Sharpening Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2838,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 132,
+            "r4": 140
+        }
+    },
+    {
+        "itemId": 3241,
+        "spellId": 3117,
+        "name": "Heavy Weightstone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2838,
+                "count": 1
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 132,
+            "r4": 140
+        }
+    },
+    {
+        "itemId": 3486,
+        "spellId": 3337,
+        "name": "Heavy Grinding Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2838,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 137,
+            "r4": 150
+        }
+    },
+    {
+        "itemId": 7956,
+        "spellId": 9985,
+        "name": "Bronze Warhammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 8
+            },
+            {
+                "itemId": 3466,
+                "count": 1
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 155,
+            "r3": 170,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 3490,
+        "spellId": 3295,
+        "name": "Deadly Bronze Poniard",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 4
+            },
+            {
+                "itemId": 3466,
+                "count": 1
+            },
+            {
+                "itemId": 2459,
+                "count": 1
+            },
+            {
+                "itemId": 1210,
+                "count": 2
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 155,
+            "r3": 170,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 3481,
+        "spellId": 3330,
+        "name": "Silvered Bronze Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 8
+            },
+            {
+                "itemId": 2842,
+                "count": 2
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 155,
+            "r3": 170,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 7957,
+        "spellId": 9986,
+        "name": "Bronze Greatsword",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 12
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 130,
+            "r1": 130,
+            "r2": 160,
+            "r3": 175,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 3491,
+        "spellId": 3296,
+        "name": "Heavy Bronze Mace",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 8
+            },
+            {
+                "itemId": 3466,
+                "count": 1
+            },
+            {
+                "itemId": 1206,
+                "count": 1
+            },
+            {
+                "itemId": 1210,
+                "count": 1
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 130,
+            "r1": 130,
+            "r2": 160,
+            "r3": 175,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 3482,
+        "spellId": 3331,
+        "name": "Silvered Bronze Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 6
+            },
+            {
+                "itemId": 2842,
+                "count": 1
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 130,
+            "r1": 130,
+            "r2": 160,
+            "r3": 175,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 2869,
+        "spellId": 2673,
+        "name": "Silvered Bronze Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 10
+            },
+            {
+                "itemId": 2842,
+                "count": 2
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 1705,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 130,
+            "r1": 130,
+            "r2": 160,
+            "r3": 175,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 7958,
+        "spellId": 9987,
+        "name": "Bronze Battle Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 14
+            },
+            {
+                "itemId": 3466,
+                "count": 1
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 135,
+            "r1": 135,
+            "r2": 165,
+            "r3": 180,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 3483,
+        "spellId": 3333,
+        "name": "Silvered Bronze Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 8
+            },
+            {
+                "itemId": 2842,
+                "count": 1
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 135,
+            "r1": 135,
+            "r2": 165,
+            "r3": 180,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 5541,
+        "spellId": 6518,
+        "name": "Iridescent Hammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 10
+            },
+            {
+                "itemId": 3466,
+                "count": 1
+            },
+            {
+                "itemId": 5500,
+                "count": 1
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 140,
+            "r1": 140,
+            "r2": 170,
+            "r3": 185,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 3484,
+        "spellId": 3334,
+        "name": "Green Iron Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 4
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 175,
+            "r3": 190,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 3492,
+        "spellId": 3297,
+        "name": "Mighty Iron Hammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 6
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3391,
+                "count": 1
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 175,
+            "r3": 190,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 2870,
+        "spellId": 2675,
+        "name": "Shining Silver Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 20
+            },
+            {
+                "itemId": 1206,
+                "count": 2
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            },
+            {
+                "itemId": 5500,
+                "count": 2
+            },
+            {
+                "itemId": 2842,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 175,
+            "r3": 190,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 7071,
+        "spellId": 8768,
+        "name": "Iron Buckle",
+        "count": "2",
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 150,
+            "r3": 152,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 15870,
+        "spellId": 19667,
+        "name": "Golden Skeleton Key",
+        "count": "2",
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3577,
+                "count": 1
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 150,
+            "r3": 160,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 11128,
+        "spellId": 14379,
+        "name": "Golden Rod",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3577,
+                "count": 1
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 155,
+            "r3": 157,
+            "r4": 160
+        }
+    },
+    {
+        "itemId": 3485,
+        "spellId": 3336,
+        "name": "Green Iron Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 4
+            },
+            {
+                "itemId": 5498,
+                "count": 2
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 180,
+            "r3": 195,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 6042,
+        "spellId": 7221,
+        "name": "Iron Shield Spike",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 6
+            },
+            {
+                "itemId": 3478,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 180,
+            "r3": 195,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 3842,
+        "spellId": 3506,
+        "name": "Green Iron Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 8
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 155,
+            "r1": 155,
+            "r2": 180,
+            "r3": 192,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 10423,
+        "spellId": 12259,
+        "name": "Silvered Bronze Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 12
+            },
+            {
+                "itemId": 2842,
+                "count": 4
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 155,
+            "r1": 155,
+            "r2": 180,
+            "r3": 192,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 3851,
+        "spellId": 3494,
+        "name": "Solid Iron Maul",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 8
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            },
+            {
+                "itemId": 2842,
+                "count": 4
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 155,
+            "r1": 155,
+            "r2": 180,
+            "r3": 192,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 7914,
+        "spellId": 9813,
+        "name": "Barbaric Iron Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 20
+            },
+            {
+                "itemId": 3486,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 185,
+            "r3": 197,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 7913,
+        "spellId": 9811,
+        "name": "Barbaric Iron Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 8
+            },
+            {
+                "itemId": 5635,
+                "count": 4
+            },
+            {
+                "itemId": 1210,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 185,
+            "r3": 197,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 3840,
+        "spellId": 3504,
+        "name": "Green Iron Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 7
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 185,
+            "r3": 197,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 3849,
+        "spellId": 3492,
+        "name": "Hardened Iron Shortsword",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 6
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 185,
+            "r3": 197,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 3835,
+        "spellId": 3501,
+        "name": "Green Iron Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 6
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 165,
+            "r1": 165,
+            "r2": 190,
+            "r3": 202,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 6043,
+        "spellId": 7222,
+        "name": "Iron Counterweight",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 4
+            },
+            {
+                "itemId": 3478,
+                "count": 2
+            },
+            {
+                "itemId": 1705,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 165,
+            "r1": 165,
+            "r2": 190,
+            "r3": 202,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 3852,
+        "spellId": 3495,
+        "name": "Golden Iron Destroyer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 10
+            },
+            {
+                "itemId": 3577,
+                "count": 4
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 170,
+            "r1": 170,
+            "r2": 195,
+            "r3": 207,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 3843,
+        "spellId": 3507,
+        "name": "Golden Scale Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 10
+            },
+            {
+                "itemId": 3577,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 170,
+            "r1": 170,
+            "r2": 195,
+            "r3": 207,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 3836,
+        "spellId": 3502,
+        "name": "Green Iron Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 12
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 170,
+            "r1": 170,
+            "r2": 195,
+            "r3": 207,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 7915,
+        "spellId": 9814,
+        "name": "Barbaric Iron Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 10
+            },
+            {
+                "itemId": 5637,
+                "count": 2
+            },
+            {
+                "itemId": 5635,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 200,
+            "r3": 212,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 3841,
+        "spellId": 3505,
+        "name": "Golden Scale Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 6
+            },
+            {
+                "itemId": 3577,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 200,
+            "r3": 212,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 3850,
+        "spellId": 3493,
+        "name": "Jade Serpentblade",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 8
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            },
+            {
+                "itemId": 1529,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 200,
+            "r3": 212,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 7916,
+        "spellId": 9818,
+        "name": "Barbaric Iron Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 12
+            },
+            {
+                "itemId": 5637,
+                "count": 4
+            },
+            {
+                "itemId": 818,
+                "count": 4
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 205,
+            "r3": 217,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 12259,
+        "spellId": 15972,
+        "name": "Glinting Steel Dagger",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 10
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 1206,
+                "count": 1
+            },
+            {
+                "itemId": 7067,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 205,
+            "r3": 217,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 3844,
+        "spellId": 3508,
+        "name": "Green Iron Hauberk",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 20
+            },
+            {
+                "itemId": 3486,
+                "count": 4
+            },
+            {
+                "itemId": 1529,
+                "count": 2
+            },
+            {
+                "itemId": 1206,
+                "count": 2
+            },
+            {
+                "itemId": 4255,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 205,
+            "r3": 217,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 3853,
+        "spellId": 3496,
+        "name": "Moonsteel Broadsword",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 8
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            },
+            {
+                "itemId": 1705,
+                "count": 3
+            },
+            {
+                "itemId": 4234,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 205,
+            "r3": 217,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 7917,
+        "spellId": 9820,
+        "name": "Barbaric Iron Gloves",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 14
+            },
+            {
+                "itemId": 3486,
+                "count": 3
+            },
+            {
+                "itemId": 5637,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 210,
+            "r3": 222,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 6040,
+        "spellId": 7223,
+        "name": "Golden Scale Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 5
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 210,
+            "r3": 222,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 3855,
+        "spellId": 3498,
+        "name": "Massive Iron Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 14
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            },
+            {
+                "itemId": 3577,
+                "count": 4
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 210,
+            "r3": 222,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 3846,
+        "spellId": 3513,
+        "name": "Polished Steel Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 8
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            },
+            {
+                "itemId": 1705,
+                "count": 1
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 210,
+            "r3": 222,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 17704,
+        "spellId": 21913,
+        "name": "Edge of Winter",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 10
+            },
+            {
+                "itemId": 3829,
+                "count": 1
+            },
+            {
+                "itemId": 7070,
+                "count": 2
+            },
+            {
+                "itemId": 7069,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 215,
+            "r3": 227,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 3837,
+        "spellId": 3503,
+        "name": "Golden Scale Coif",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 8
+            },
+            {
+                "itemId": 3577,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 215,
+            "r3": 227,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 12260,
+        "spellId": 15973,
+        "name": "Searing Golden Blade",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 10
+            },
+            {
+                "itemId": 3577,
+                "count": 4
+            },
+            {
+                "itemId": 7068,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 215,
+            "r3": 227,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 6041,
+        "spellId": 7224,
+        "name": "Steel Weapon Chain",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 8
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 215,
+            "r3": 227,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 3845,
+        "spellId": 3511,
+        "name": "Golden Scale Cuirass",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 12
+            },
+            {
+                "itemId": 3577,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 4
+            },
+            {
+                "itemId": 1529,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 195,
+            "r1": 195,
+            "r2": 220,
+            "r3": 232,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 7966,
+        "spellId": 9920,
+        "name": "Solid Grinding Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 7912,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 205,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 7964,
+        "spellId": 9918,
+        "name": "Solid Sharpening Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 7912,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 205,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 7965,
+        "spellId": 9921,
+        "name": "Solid Weightstone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 7912,
+                "count": 1
+            },
+            {
+                "itemId": 4306,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 205,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 15871,
+        "spellId": 19668,
+        "name": "Truesilver Skeleton Key",
+        "count": "2",
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 210,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 11144,
+        "spellId": 14380,
+        "name": "Truesilver Rod",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 3486,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 205,
+            "r3": 207,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 3854,
+        "spellId": 3497,
+        "name": "Frost Tiger Blade",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 8
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 2
+            },
+            {
+                "itemId": 1529,
+                "count": 2
+            },
+            {
+                "itemId": 3829,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 3847,
+        "spellId": 3515,
+        "name": "Golden Scale Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 10
+            },
+            {
+                "itemId": 3577,
+                "count": 4
+            },
+            {
+                "itemId": 3486,
+                "count": 4
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 9060,
+        "spellId": 11454,
+        "name": "Inlaid Mithril Cylinder",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 5
+            },
+            {
+                "itemId": 3577,
+                "count": 1
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 3856,
+        "spellId": 3500,
+        "name": "Shadow Crescent Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 10
+            },
+            {
+                "itemId": 3466,
+                "count": 2
+            },
+            {
+                "itemId": 3486,
+                "count": 3
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            },
+            {
+                "itemId": 3824,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 7963,
+        "spellId": 9916,
+        "name": "Steel Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 16
+            },
+            {
+                "itemId": 3486,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 9366,
+        "spellId": 11643,
+        "name": "Golden Scale Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 10
+            },
+            {
+                "itemId": 3577,
+                "count": 4
+            },
+            {
+                "itemId": 3486,
+                "count": 4
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 7919,
+        "spellId": 9928,
+        "name": "Heavy Mithril Gauntlet",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 6
+            },
+            {
+                "itemId": 4338,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 7918,
+        "spellId": 9926,
+        "name": "Heavy Mithril Shoulder",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 8
+            },
+            {
+                "itemId": 4234,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 7921,
+        "spellId": 9933,
+        "name": "Heavy Mithril Pants",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 10
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 230,
+            "r3": 240,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 7920,
+        "spellId": 9931,
+        "name": "Mithril Scale Pants",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 230,
+            "r3": 240,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 7941,
+        "spellId": 9993,
+        "name": "Heavy Mithril Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 235,
+            "r3": 247,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 7924,
+        "spellId": 9937,
+        "name": "Mithril Scale Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 8
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 235,
+            "r3": 245,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 7967,
+        "spellId": 9939,
+        "name": "Mithril Shield Spike",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 4
+            },
+            {
+                "itemId": 6037,
+                "count": 2
+            },
+            {
+                "itemId": 7966,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 235,
+            "r3": 245,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 7922,
+        "spellId": 9935,
+        "name": "Steel Plate Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 14
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 235,
+            "r3": 245,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 7927,
+        "spellId": 9950,
+        "name": "Ornate Mithril Gloves",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 10
+            },
+            {
+                "itemId": 4338,
+                "count": 6
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 220,
+            "r1": 220,
+            "r2": 240,
+            "r3": 250,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 7926,
+        "spellId": 9945,
+        "name": "Ornate Mithril Pants",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 7909,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 220,
+            "r1": 220,
+            "r2": 240,
+            "r3": 250,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 7942,
+        "spellId": 9995,
+        "name": "Blue Glittering Axe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 16
+            },
+            {
+                "itemId": 7909,
+                "count": 2
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 220,
+            "r1": 220,
+            "r2": 245,
+            "r3": 257,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 7928,
+        "spellId": 9952,
+        "name": "Ornate Mithril Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 245,
+            "r3": 255,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 7938,
+        "spellId": 9954,
+        "name": "Truesilver Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 10
+            },
+            {
+                "itemId": 6037,
+                "count": 8
+            },
+            {
+                "itemId": 7909,
+                "count": 3
+            },
+            {
+                "itemId": 3864,
+                "count": 3
+            },
+            {
+                "itemId": 5966,
+                "count": 1
+            },
+            {
+                "itemId": 7966,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 245,
+            "r3": 255,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 7943,
+        "spellId": 9997,
+        "name": "Wicked Mithril Blade",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 14
+            },
+            {
+                "itemId": 6037,
+                "count": 4
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 250,
+            "r3": 262,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 7930,
+        "spellId": 9959,
+        "name": "Heavy Mithril Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 16
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 7931,
+        "spellId": 9961,
+        "name": "Mithril Coif",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 10
+            },
+            {
+                "itemId": 4338,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 7929,
+        "spellId": 9957,
+        "name": "Orcish War Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            },
+            {
+                "itemId": 7067,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 7945,
+        "spellId": 10001,
+        "name": "Big Black Mace",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 16
+            },
+            {
+                "itemId": 7971,
+                "count": 1
+            },
+            {
+                "itemId": 1210,
+                "count": 4
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 255,
+            "r3": 267,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 7933,
+        "spellId": 9968,
+        "name": "Heavy Mithril Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 14
+            },
+            {
+                "itemId": 4304,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 255,
+            "r3": 265,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 7932,
+        "spellId": 9966,
+        "name": "Mithril Scale Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 14
+            },
+            {
+                "itemId": 4304,
+                "count": 4
+            },
+            {
+                "itemId": 3864,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 255,
+            "r3": 265,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 7969,
+        "spellId": 9964,
+        "name": "Mithril Spurs",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 4
+            },
+            {
+                "itemId": 7966,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 255,
+            "r3": 265,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 7954,
+        "spellId": 10003,
+        "name": "The Shatterer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 24
+            },
+            {
+                "itemId": 7075,
+                "count": 4
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 3864,
+                "count": 5
+            },
+            {
+                "itemId": 1529,
+                "count": 5
+            },
+            {
+                "itemId": 7966,
+                "count": 4
+            },
+            {
+                "itemId": 4304,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 260,
+            "r3": 272,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 7935,
+        "spellId": 9972,
+        "name": "Ornate Mithril Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 16
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 7077,
+                "count": 1
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 260,
+            "r3": 270,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 7944,
+        "spellId": 10005,
+        "name": "Dazzling Mithril Rapier",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 14
+            },
+            {
+                "itemId": 7909,
+                "count": 1
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            },
+            {
+                "itemId": 1206,
+                "count": 2
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 4338,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 265,
+            "r3": 277,
+            "r4": 290
+        }
+    },
+    {
+        "itemId": 7934,
+        "spellId": 9970,
+        "name": "Heavy Mithril Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 14
+            },
+            {
+                "itemId": 7909,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 255,
+            "r3": 265,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 7936,
+        "spellId": 9979,
+        "name": "Ornate Mithril Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 14
+            },
+            {
+                "itemId": 6037,
+                "count": 2
+            },
+            {
+                "itemId": 4304,
+                "count": 4
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 7909,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 265,
+            "r3": 275,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 7937,
+        "spellId": 9980,
+        "name": "Ornate Mithril Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 16
+            },
+            {
+                "itemId": 6037,
+                "count": 2
+            },
+            {
+                "itemId": 7971,
+                "count": 1
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 265,
+            "r3": 275,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 7939,
+        "spellId": 9974,
+        "name": "Truesilver Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            },
+            {
+                "itemId": 6037,
+                "count": 24
+            },
+            {
+                "itemId": 7910,
+                "count": 4
+            },
+            {
+                "itemId": 7971,
+                "count": 4
+            },
+            {
+                "itemId": 7966,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 265,
+            "r3": 275,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 7961,
+        "spellId": 10007,
+        "name": "Phantom Blade",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 28
+            },
+            {
+                "itemId": 7081,
+                "count": 6
+            },
+            {
+                "itemId": 6037,
+                "count": 8
+            },
+            {
+                "itemId": 3823,
+                "count": 2
+            },
+            {
+                "itemId": 7909,
+                "count": 6
+            },
+            {
+                "itemId": 7966,
+                "count": 4
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 270,
+            "r3": 282,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 7946,
+        "spellId": 10009,
+        "name": "Runed Mithril Hammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 18
+            },
+            {
+                "itemId": 7075,
+                "count": 2
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 270,
+            "r3": 282,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 12644,
+        "spellId": 16639,
+        "name": "Dense Grinding Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12365,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 255,
+            "r3": 257,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 12404,
+        "spellId": 16641,
+        "name": "Dense Sharpening Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12365,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 255,
+            "r3": 257,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 12643,
+        "spellId": 16640,
+        "name": "Dense Weightstone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12365,
+                "count": 1
+            },
+            {
+                "itemId": 14047,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 255,
+            "r3": 257,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 12405,
+        "spellId": 16642,
+        "name": "Thorium Armor",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 16
+            },
+            {
+                "itemId": 12361,
+                "count": 1
+            },
+            {
+                "itemId": 11188,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 270,
+            "r3": 280,
+            "r4": 290
+        }
+    },
+    {
+        "itemId": 12406,
+        "spellId": 16643,
+        "name": "Thorium Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 11186,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 270,
+            "r3": 280,
+            "r4": 290
+        }
+    },
+    {
+        "itemId": 7959,
+        "spellId": 10011,
+        "name": "Blight",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 28
+            },
+            {
+                "itemId": 7972,
+                "count": 10
+            },
+            {
+                "itemId": 6037,
+                "count": 10
+            },
+            {
+                "itemId": 7966,
+                "count": 6
+            },
+            {
+                "itemId": 4304,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 275,
+            "r3": 287,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 12408,
+        "spellId": 16644,
+        "name": "Thorium Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 11184,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 255,
+            "r1": 255,
+            "r2": 275,
+            "r3": 285,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 7947,
+        "spellId": 10013,
+        "name": "Ebon Shiv",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            },
+            {
+                "itemId": 7966,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 255,
+            "r1": 255,
+            "r2": 280,
+            "r3": 292,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 12416,
+        "spellId": 16645,
+        "name": "Radiant Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 10
+            },
+            {
+                "itemId": 7077,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 280,
+            "r3": 290,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 7960,
+        "spellId": 10015,
+        "name": "Truesilver Champion",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 30
+            },
+            {
+                "itemId": 6037,
+                "count": 16
+            },
+            {
+                "itemId": 7910,
+                "count": 6
+            },
+            {
+                "itemId": 7081,
+                "count": 4
+            },
+            {
+                "itemId": 7966,
+                "count": 8
+            },
+            {
+                "itemId": 4304,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 285,
+            "r3": 297,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 11608,
+        "spellId": 15292,
+        "name": "Dark Iron Pulverizer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 18
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 285,
+            "r3": 295,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 12424,
+        "spellId": 16647,
+        "name": "Imperial Plate Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 22
+            },
+            {
+                "itemId": 8170,
+                "count": 6
+            },
+            {
+                "itemId": 7909,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 285,
+            "r3": 295,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 12428,
+        "spellId": 16646,
+        "name": "Imperial Plate Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 24
+            },
+            {
+                "itemId": 8170,
+                "count": 6
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 285,
+            "r3": 295,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 11606,
+        "spellId": 15293,
+        "name": "Dark Iron Mail",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 10
+            },
+            {
+                "itemId": 7077,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 290,
+            "r3": 300,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 12425,
+        "spellId": 16649,
+        "name": "Imperial Plate Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 290,
+            "r3": 300,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 12415,
+        "spellId": 16648,
+        "name": "Radiant Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 18
+            },
+            {
+                "itemId": 7077,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 290,
+            "r3": 300,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 12624,
+        "spellId": 16650,
+        "name": "Wildthorn Mail",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12655,
+                "count": 2
+            },
+            {
+                "itemId": 12803,
+                "count": 4
+            },
+            {
+                "itemId": 8153,
+                "count": 4
+            },
+            {
+                "itemId": 12364,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 290,
+            "r3": 300,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 16206,
+        "spellId": 20201,
+        "name": "Arcanite Rod",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 3
+            },
+            {
+                "itemId": 12644,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 275,
+            "r3": 280,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 15872,
+        "spellId": 19669,
+        "name": "Arcanite Skeleton Key",
+        "count": "2",
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 1
+            },
+            {
+                "itemId": 12644,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 275,
+            "r3": 280,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 11607,
+        "spellId": 15294,
+        "name": "Dark Iron Sunderer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 26
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 295,
+            "r3": 305,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 12645,
+        "spellId": 16651,
+        "name": "Thorium Shield Spike",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 4
+            },
+            {
+                "itemId": 12644,
+                "count": 4
+            },
+            {
+                "itemId": 7076,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 295,
+            "r3": 305,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 12774,
+        "spellId": 16970,
+        "name": "Dawn's Edge",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 30
+            },
+            {
+                "itemId": 12655,
+                "count": 4
+            },
+            {
+                "itemId": 7910,
+                "count": 4
+            },
+            {
+                "itemId": 12361,
+                "count": 4
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 300,
+            "r3": 312,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 12773,
+        "spellId": 16969,
+        "name": "Ornate Thorium Handaxe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12799,
+                "count": 2
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 300,
+            "r3": 312,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 11605,
+        "spellId": 15295,
+        "name": "Dark Iron Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 6
+            },
+            {
+                "itemId": 7077,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 300,
+            "r3": 310,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 12409,
+        "spellId": 16652,
+        "name": "Thorium Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 8170,
+                "count": 8
+            },
+            {
+                "itemId": 11185,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 300,
+            "r3": 310,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 12410,
+        "spellId": 16653,
+        "name": "Thorium Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 24
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            },
+            {
+                "itemId": 11188,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 300,
+            "r3": 310,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 12777,
+        "spellId": 16978,
+        "name": "Blazing Rapier",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12655,
+                "count": 10
+            },
+            {
+                "itemId": 7078,
+                "count": 4
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            },
+            {
+                "itemId": 12800,
+                "count": 2
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 305,
+            "r3": 317,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 12776,
+        "spellId": 16973,
+        "name": "Enchanted Battlehammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12655,
+                "count": 6
+            },
+            {
+                "itemId": 12364,
+                "count": 2
+            },
+            {
+                "itemId": 12804,
+                "count": 4
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 305,
+            "r3": 317,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 12775,
+        "spellId": 16971,
+        "name": "Huge Thorium Battleaxe",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12644,
+                "count": 6
+            },
+            {
+                "itemId": 8170,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 305,
+            "r3": 317,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 11604,
+        "spellId": 15296,
+        "name": "Dark Iron Plate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 20
+            },
+            {
+                "itemId": 7077,
+                "count": 8
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 305,
+            "r3": 315,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 12628,
+        "spellId": 16667,
+        "name": "Demon Forged Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12662,
+                "count": 10
+            },
+            {
+                "itemId": 12361,
+                "count": 4
+            },
+            {
+                "itemId": 7910,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 305,
+            "r3": 315,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 12418,
+        "spellId": 16654,
+        "name": "Radiant Gloves",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 18
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 305,
+            "r3": 315,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 12781,
+        "spellId": 16983,
+        "name": "Serenity",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12655,
+                "count": 6
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 12804,
+                "count": 4
+            },
+            {
+                "itemId": 12799,
+                "count": 2
+            },
+            {
+                "itemId": 12361,
+                "count": 2
+            },
+            {
+                "itemId": 12364,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 310,
+            "r3": 322,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 12625,
+        "spellId": 16660,
+        "name": "Dawnbringer Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12360,
+                "count": 4
+            },
+            {
+                "itemId": 12364,
+                "count": 2
+            },
+            {
+                "itemId": 7080,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 12631,
+        "spellId": 16655,
+        "name": "Fiery Plate Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12655,
+                "count": 6
+            },
+            {
+                "itemId": 7078,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 19051,
+        "spellId": 23632,
+        "name": "Girdle of the Dawn",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 8
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 12811,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 19043,
+        "spellId": 23628,
+        "name": "Heavy Timbermaw Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 7076,
+                "count": 3
+            },
+            {
+                "itemId": 12803,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 12419,
+        "spellId": 16656,
+        "name": "Radiant Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 14
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 12782,
+        "spellId": 16985,
+        "name": "Corruption",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 12662,
+                "count": 16
+            },
+            {
+                "itemId": 12808,
+                "count": 8
+            },
+            {
+                "itemId": 12361,
+                "count": 2
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 315,
+            "r3": 327,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12792,
+        "spellId": 16984,
+        "name": "Volcanic Hammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 30
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            },
+            {
+                "itemId": 7910,
+                "count": 4
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 315,
+            "r3": 327,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 17014,
+        "spellId": 20874,
+        "name": "Dark Iron Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 4
+            },
+            {
+                "itemId": 17010,
+                "count": 2
+            },
+            {
+                "itemId": 17011,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 295,
+            "r1": 295,
+            "r2": 315,
+            "r3": 325,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 16989,
+        "spellId": 20872,
+        "name": "Fiery Chain Girdle",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 6
+            },
+            {
+                "itemId": 17010,
+                "count": 3
+            },
+            {
+                "itemId": 17011,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 295,
+            "r1": 295,
+            "r2": 315,
+            "r3": 325,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 12426,
+        "spellId": 16657,
+        "name": "Imperial Plate Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 34
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            },
+            {
+                "itemId": 7909,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 295,
+            "r1": 295,
+            "r2": 315,
+            "r3": 325,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 12427,
+        "spellId": 16658,
+        "name": "Imperial Plate Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 34
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 295,
+            "r1": 295,
+            "r2": 315,
+            "r3": 325,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 12417,
+        "spellId": 16659,
+        "name": "Radiant Circlet",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 18
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 295,
+            "r1": 295,
+            "r2": 315,
+            "r3": 325,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 12632,
+        "spellId": 16661,
+        "name": "Storm Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12655,
+                "count": 4
+            },
+            {
+                "itemId": 7080,
+                "count": 4
+            },
+            {
+                "itemId": 12361,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 295,
+            "r1": 295,
+            "r2": 315,
+            "r3": 325,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 18262,
+        "spellId": 22757,
+        "name": "Elemental Sharpening Stone",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 7067,
+                "count": 2
+            },
+            {
+                "itemId": 12365,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 300,
+            "r3": 310,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 12798,
+        "spellId": 16991,
+        "name": "Annihilator",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12360,
+                "count": 12
+            },
+            {
+                "itemId": 12808,
+                "count": 10
+            },
+            {
+                "itemId": 12364,
+                "count": 8
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12790,
+        "spellId": 16990,
+        "name": "Arcanite Champion",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 15
+            },
+            {
+                "itemId": 12800,
+                "count": 8
+            },
+            {
+                "itemId": 12811,
+                "count": 1
+            },
+            {
+                "itemId": 12799,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 8
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12784,
+        "spellId": 16994,
+        "name": "Arcanite Reaper",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 20
+            },
+            {
+                "itemId": 12810,
+                "count": 6
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19166,
+        "spellId": 23638,
+        "name": "Black Amnesty",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 3
+            },
+            {
+                "itemId": 17010,
+                "count": 6
+            },
+            {
+                "itemId": 12360,
+                "count": 12
+            },
+            {
+                "itemId": 11382,
+                "count": 1
+            },
+            {
+                "itemId": 11371,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22194,
+        "spellId": 27589,
+        "name": "Black Grasp of the Destroyer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22203,
+                "count": 8
+            },
+            {
+                "itemId": 22202,
+                "count": 24
+            },
+            {
+                "itemId": 12810,
+                "count": 8
+            },
+            {
+                "itemId": 13512,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19167,
+        "spellId": 23639,
+        "name": "Blackfury",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 5
+            },
+            {
+                "itemId": 17010,
+                "count": 2
+            },
+            {
+                "itemId": 12360,
+                "count": 16
+            },
+            {
+                "itemId": 11371,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19168,
+        "spellId": 23652,
+        "name": "Blackguard",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 6
+            },
+            {
+                "itemId": 17010,
+                "count": 6
+            },
+            {
+                "itemId": 12360,
+                "count": 10
+            },
+            {
+                "itemId": 11371,
+                "count": 6
+            },
+            {
+                "itemId": 12809,
+                "count": 12
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19690,
+        "spellId": 24136,
+        "name": "Bloodsoul Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 19774,
+                "count": 10
+            },
+            {
+                "itemId": 19726,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19692,
+        "spellId": 24138,
+        "name": "Bloodsoul Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 19774,
+                "count": 6
+            },
+            {
+                "itemId": 19726,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19691,
+        "spellId": 24137,
+        "name": "Bloodsoul Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 16
+            },
+            {
+                "itemId": 19774,
+                "count": 8
+            },
+            {
+                "itemId": 19726,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 20039,
+        "spellId": 24399,
+        "name": "Dark Iron Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 3
+            },
+            {
+                "itemId": 17010,
+                "count": 3
+            },
+            {
+                "itemId": 17012,
+                "count": 4
+            },
+            {
+                "itemId": 11371,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 17016,
+        "spellId": 20897,
+        "name": "Dark Iron Destroyer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 18
+            },
+            {
+                "itemId": 17011,
+                "count": 12
+            },
+            {
+                "itemId": 11382,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19164,
+        "spellId": 23637,
+        "name": "Dark Iron Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 3
+            },
+            {
+                "itemId": 17010,
+                "count": 5
+            },
+            {
+                "itemId": 17012,
+                "count": 4
+            },
+            {
+                "itemId": 11371,
+                "count": 4
+            },
+            {
+                "itemId": 11382,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19148,
+        "spellId": 23636,
+        "name": "Dark Iron Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 4
+            },
+            {
+                "itemId": 17010,
+                "count": 2
+            },
+            {
+                "itemId": 11371,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 17013,
+        "spellId": 20876,
+        "name": "Dark Iron Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 16
+            },
+            {
+                "itemId": 17010,
+                "count": 4
+            },
+            {
+                "itemId": 17011,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 17015,
+        "spellId": 20890,
+        "name": "Dark Iron Reaver",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 16
+            },
+            {
+                "itemId": 17010,
+                "count": 12
+            },
+            {
+                "itemId": 11382,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 20550,
+        "spellId": 24914,
+        "name": "Darkrune Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 20520,
+                "count": 10
+            },
+            {
+                "itemId": 6037,
+                "count": 10
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 20549,
+        "spellId": 24912,
+        "name": "Darkrune Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 20520,
+                "count": 6
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 20551,
+        "spellId": 24913,
+        "name": "Darkrune Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 16
+            },
+            {
+                "itemId": 20520,
+                "count": 8
+            },
+            {
+                "itemId": 6037,
+                "count": 8
+            },
+            {
+                "itemId": 11754,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19693,
+        "spellId": 24139,
+        "name": "Darksoul Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 19774,
+                "count": 14
+            },
+            {
+                "itemId": 12799,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19694,
+        "spellId": 24140,
+        "name": "Darksoul Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 18
+            },
+            {
+                "itemId": 19774,
+                "count": 12
+            },
+            {
+                "itemId": 12799,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19695,
+        "spellId": 24141,
+        "name": "Darksoul Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 16
+            },
+            {
+                "itemId": 19774,
+                "count": 10
+            },
+            {
+                "itemId": 12799,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19170,
+        "spellId": 23650,
+        "name": "Ebon Hand",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 4
+            },
+            {
+                "itemId": 17010,
+                "count": 7
+            },
+            {
+                "itemId": 12360,
+                "count": 12
+            },
+            {
+                "itemId": 11371,
+                "count": 8
+            },
+            {
+                "itemId": 12800,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12618,
+        "spellId": 16745,
+        "name": "Enchanted Thorium Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 8
+            },
+            {
+                "itemId": 12655,
+                "count": 24
+            },
+            {
+                "itemId": 7076,
+                "count": 4
+            },
+            {
+                "itemId": 7080,
+                "count": 4
+            },
+            {
+                "itemId": 12364,
+                "count": 2
+            },
+            {
+                "itemId": 12800,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12620,
+        "spellId": 16742,
+        "name": "Enchanted Thorium Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 6
+            },
+            {
+                "itemId": 12655,
+                "count": 16
+            },
+            {
+                "itemId": 7076,
+                "count": 6
+            },
+            {
+                "itemId": 12799,
+                "count": 2
+            },
+            {
+                "itemId": 12800,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12619,
+        "spellId": 16744,
+        "name": "Enchanted Thorium Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 10
+            },
+            {
+                "itemId": 12655,
+                "count": 20
+            },
+            {
+                "itemId": 7080,
+                "count": 6
+            },
+            {
+                "itemId": 12361,
+                "count": 2
+            },
+            {
+                "itemId": 12364,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 16988,
+        "spellId": 20873,
+        "name": "Fiery Chain Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 16
+            },
+            {
+                "itemId": 17010,
+                "count": 4
+            },
+            {
+                "itemId": 17011,
+                "count": 5
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12797,
+        "spellId": 16992,
+        "name": "Frostguard",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 18
+            },
+            {
+                "itemId": 12361,
+                "count": 8
+            },
+            {
+                "itemId": 12800,
+                "count": 8
+            },
+            {
+                "itemId": 7080,
+                "count": 4
+            },
+            {
+                "itemId": 12644,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19057,
+        "spellId": 23633,
+        "name": "Gloves of the Dawn",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 6037,
+                "count": 10
+            },
+            {
+                "itemId": 12811,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12796,
+        "spellId": 16988,
+        "name": "Hammer of the Titans",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 50
+            },
+            {
+                "itemId": 12360,
+                "count": 15
+            },
+            {
+                "itemId": 12809,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 6
+            },
+            {
+                "itemId": 7076,
+                "count": 10
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12783,
+        "spellId": 16995,
+        "name": "Heartseeker",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 10
+            },
+            {
+                "itemId": 12655,
+                "count": 10
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 6
+            },
+            {
+                "itemId": 12800,
+                "count": 6
+            },
+            {
+                "itemId": 12799,
+                "count": 6
+            },
+            {
+                "itemId": 12644,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22197,
+        "spellId": 27585,
+        "name": "Heavy Obsidian Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22202,
+                "count": 14
+            },
+            {
+                "itemId": 12655,
+                "count": 4
+            },
+            {
+                "itemId": 7076,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19048,
+        "spellId": 23629,
+        "name": "Heavy Timbermaw Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 4
+            },
+            {
+                "itemId": 7076,
+                "count": 6
+            },
+            {
+                "itemId": 12803,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12636,
+        "spellId": 16728,
+        "name": "Helm of the Great Chief",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12655,
+                "count": 4
+            },
+            {
+                "itemId": 8168,
+                "count": 60
+            },
+            {
+                "itemId": 12799,
+                "count": 6
+            },
+            {
+                "itemId": 12364,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22671,
+        "spellId": 28244,
+        "name": "Icebane Bracers",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22682,
+                "count": 4
+            },
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 7080,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22669,
+        "spellId": 28242,
+        "name": "Icebane Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22682,
+                "count": 7
+            },
+            {
+                "itemId": 12359,
+                "count": 16
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 7080,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22670,
+        "spellId": 28243,
+        "name": "Icebane Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22682,
+                "count": 5
+            },
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 7080,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12422,
+        "spellId": 16663,
+        "name": "Imperial Plate Chest",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12429,
+        "spellId": 16730,
+        "name": "Imperial Plate Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 44
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12641,
+        "spellId": 16746,
+        "name": "Invulnerable Mail",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 30
+            },
+            {
+                "itemId": 12655,
+                "count": 30
+            },
+            {
+                "itemId": 12364,
+                "count": 6
+            },
+            {
+                "itemId": 12800,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22764,
+        "spellId": 28463,
+        "name": "Ironvine Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12655,
+                "count": 6
+            },
+            {
+                "itemId": 12803,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22762,
+        "spellId": 28461,
+        "name": "Ironvine Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12655,
+                "count": 12
+            },
+            {
+                "itemId": 19726,
+                "count": 2
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 12803,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22763,
+        "spellId": 28462,
+        "name": "Ironvine Gloves",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12655,
+                "count": 8
+            },
+            {
+                "itemId": 19726,
+                "count": 1
+            },
+            {
+                "itemId": 12803,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22198,
+        "spellId": 27586,
+        "name": "Jagged Obsidian Shield",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22203,
+                "count": 8
+            },
+            {
+                "itemId": 22202,
+                "count": 24
+            },
+            {
+                "itemId": 12655,
+                "count": 8
+            },
+            {
+                "itemId": 7076,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22195,
+        "spellId": 27588,
+        "name": "Light Obsidian Belt",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22202,
+                "count": 14
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12640,
+        "spellId": 16729,
+        "name": "Lionheart Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 80
+            },
+            {
+                "itemId": 12360,
+                "count": 12
+            },
+            {
+                "itemId": 8146,
+                "count": 40
+            },
+            {
+                "itemId": 12361,
+                "count": 10
+            },
+            {
+                "itemId": 12800,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12794,
+        "spellId": 16993,
+        "name": "Masterwork Stormhammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12655,
+                "count": 20
+            },
+            {
+                "itemId": 12364,
+                "count": 8
+            },
+            {
+                "itemId": 12799,
+                "count": 8
+            },
+            {
+                "itemId": 7076,
+                "count": 6
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19169,
+        "spellId": 23653,
+        "name": "Nightfall",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 8
+            },
+            {
+                "itemId": 17010,
+                "count": 5
+            },
+            {
+                "itemId": 12360,
+                "count": 10
+            },
+            {
+                "itemId": 11371,
+                "count": 12
+            },
+            {
+                "itemId": 12364,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22191,
+        "spellId": 27590,
+        "name": "Obsidian Mail Tunic",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22203,
+                "count": 15
+            },
+            {
+                "itemId": 22202,
+                "count": 36
+            },
+            {
+                "itemId": 12810,
+                "count": 12
+            },
+            {
+                "itemId": 12809,
+                "count": 10
+            },
+            {
+                "itemId": 12800,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22384,
+        "spellId": 27830,
+        "name": "Persuader",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 15
+            },
+            {
+                "itemId": 11371,
+                "count": 10
+            },
+            {
+                "itemId": 12808,
+                "count": 20
+            },
+            {
+                "itemId": 20520,
+                "count": 20
+            },
+            {
+                "itemId": 15417,
+                "count": 10
+            },
+            {
+                "itemId": 12753,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12420,
+        "spellId": 16725,
+        "name": "Radiant Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12613,
+        "spellId": 16731,
+        "name": "Runic Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12611,
+        "spellId": 16665,
+        "name": "Runic Plate Boots",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 2842,
+                "count": 10
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12612,
+        "spellId": 16726,
+        "name": "Runic Plate Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 30
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 6037,
+                "count": 2
+            },
+            {
+                "itemId": 12364,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12614,
+        "spellId": 16732,
+        "name": "Runic Plate Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 40
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12610,
+        "spellId": 16664,
+        "name": "Runic Plate Shoulders",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12360,
+                "count": 2
+            },
+            {
+                "itemId": 3577,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22383,
+        "spellId": 27832,
+        "name": "Sageblade",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 12
+            },
+            {
+                "itemId": 20725,
+                "count": 2
+            },
+            {
+                "itemId": 13512,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12639,
+        "spellId": 16741,
+        "name": "Stronghold Gauntlets",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 15
+            },
+            {
+                "itemId": 12655,
+                "count": 20
+            },
+            {
+                "itemId": 7076,
+                "count": 10
+            },
+            {
+                "itemId": 12361,
+                "count": 4
+            },
+            {
+                "itemId": 12799,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22196,
+        "spellId": 27587,
+        "name": "Thick Obsidian Breastplate",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 22203,
+                "count": 18
+            },
+            {
+                "itemId": 22202,
+                "count": 40
+            },
+            {
+                "itemId": 12655,
+                "count": 12
+            },
+            {
+                "itemId": 7076,
+                "count": 10
+            },
+            {
+                "itemId": 12364,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12414,
+        "spellId": 16662,
+        "name": "Thorium Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 26
+            },
+            {
+                "itemId": 11186,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 22385,
+        "spellId": 27829,
+        "name": "Titanic Leggings",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 12
+            },
+            {
+                "itemId": 12655,
+                "count": 20
+            },
+            {
+                "itemId": 7076,
+                "count": 10
+            },
+            {
+                "itemId": 13510,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 12633,
+        "spellId": 16724,
+        "name": "Whitesoul Helm",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 20
+            },
+            {
+                "itemId": 12655,
+                "count": 4
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 3577,
+                "count": 6
+            },
+            {
+                "itemId": 12800,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 17193,
+        "spellId": 21161,
+        "name": "Sulfuron Hammer",
+        "count": null,
+        "type": "Blacksmithing",
+        "mats": [
+            {
+                "itemId": 17203,
+                "count": 8
+            },
+            {
+                "itemId": 11371,
+                "count": 20
+            },
+            {
+                "itemId": 12360,
+                "count": 50
+            },
+            {
+                "itemId": 7078,
+                "count": 25
+            },
+            {
+                "itemId": 11382,
+                "count": 10
+            },
+            {
+                "itemId": 17011,
+                "count": 10
+            },
+            {
+                "itemId": 17010,
+                "count": 10
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 325,
+            "r3": 337,
+            "r4": 350
+        }
+    }
+]

@@ -1,0 +1,28 @@
+## Interface: 11500
+## Title: Profession Browser
+## Notes: Browse professions faster with smooth navigation.
+## Author: Bloodleh
+## Version: 0.1
+## SavedVariables: db, save
+
+Library\Config.lua
+
+Library\Data\Materials.lua
+Library\Data\Blacksmithing.lua
+Library\Data\Engineering.lua
+Library\Data\Tailoring.lua
+
+Library\Utility\FramePool.lua
+Library\Utility\Stack.lua
+Library\Utility\Utility.lua
+
+Library\DB.lua
+Library\PlayerProfession.lua
+Library\Functions.lua
+
+Library\UI\Init.lua
+Library\UI\Navigation.lua
+
+Library\Event.lua
+
+ProfessionBrowser.lua

@@ -1,0 +1,4766 @@
+[
+    {
+        "itemId": 4357,
+        "spellId": 3918,
+        "name": "Rough Blasting Powder",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2835,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 20,
+            "r3": 30,
+            "r4": 40
+        }
+    },
+    {
+        "itemId": 4358,
+        "spellId": 3919,
+        "name": "Rough Dynamite",
+        "count": "2",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4357,
+                "count": 2
+            },
+            {
+                "itemId": 2589,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 30,
+            "r3": 45,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 8067,
+        "spellId": 3920,
+        "name": "Crafted Light Shot",
+        "count": "200",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4357,
+                "count": 1
+            },
+            {
+                "itemId": 2840,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": null,
+            "r2": 30,
+            "r3": 45,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 4359,
+        "spellId": 3922,
+        "name": "Handful of Copper Bolts",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": 30,
+            "r2": 45,
+            "r3": 52,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 4360,
+        "spellId": 3923,
+        "name": "Rough Copper Bomb",
+        "count": "2",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 1
+            },
+            {
+                "itemId": 4359,
+                "count": 1
+            },
+            {
+                "itemId": 4357,
+                "count": 2
+            },
+            {
+                "itemId": 2589,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": 30,
+            "r2": 60,
+            "r3": 75,
+            "r4": 90
+        }
+    },
+    {
+        "itemId": 6219,
+        "spellId": 7430,
+        "name": "Arclight Spanner",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 50,
+            "r1": 50,
+            "r2": 70,
+            "r3": 80,
+            "r4": 90
+        }
+    },
+    {
+        "itemId": 4361,
+        "spellId": 3924,
+        "name": "Copper Tube",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 2
+            },
+            {
+                "itemId": 2880,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 50,
+            "r1": 50,
+            "r2": 80,
+            "r3": 95,
+            "r4": 110
+        }
+    },
+    {
+        "itemId": 4362,
+        "spellId": 3925,
+        "name": "Rough Boomstick",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4361,
+                "count": 1
+            },
+            {
+                "itemId": 4359,
+                "count": 1
+            },
+            {
+                "itemId": 4399,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 50,
+            "r1": 50,
+            "r2": 80,
+            "r3": 95,
+            "r4": 110
+        }
+    },
+    {
+        "itemId": 4405,
+        "spellId": 3977,
+        "name": "Crude Scope",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4361,
+                "count": 1
+            },
+            {
+                "itemId": 774,
+                "count": 1
+            },
+            {
+                "itemId": 4359,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 60,
+            "r1": 60,
+            "r2": 90,
+            "r3": 105,
+            "r4": 120
+        }
+    },
+    {
+        "itemId": 4363,
+        "spellId": 3926,
+        "name": "Copper Modulator",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4359,
+                "count": 2
+            },
+            {
+                "itemId": 2840,
+                "count": 1
+            },
+            {
+                "itemId": 2589,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 65,
+            "r1": 65,
+            "r2": 95,
+            "r3": 110,
+            "r4": 125
+        }
+    },
+    {
+        "itemId": 4364,
+        "spellId": 3929,
+        "name": "Coarse Blasting Powder",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2836,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 85,
+            "r3": 90,
+            "r4": 95
+        }
+    },
+    {
+        "itemId": 8068,
+        "spellId": 3930,
+        "name": "Crafted Heavy Shot",
+        "count": "200",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 1
+            },
+            {
+                "itemId": 2840,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 85,
+            "r3": 90,
+            "r4": 95
+        }
+    },
+    {
+        "itemId": 4365,
+        "spellId": 3931,
+        "name": "Coarse Dynamite",
+        "count": "1-3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 3
+            },
+            {
+                "itemId": 2589,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 90,
+            "r3": 97,
+            "r4": 105
+        }
+    },
+    {
+        "itemId": 4401,
+        "spellId": 3928,
+        "name": "Mechanical Squirrel",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4363,
+                "count": 1
+            },
+            {
+                "itemId": 4359,
+                "count": 1
+            },
+            {
+                "itemId": 2840,
+                "count": 1
+            },
+            {
+                "itemId": 774,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 105,
+            "r3": 120,
+            "r4": 135
+        }
+    },
+    {
+        "itemId": 4366,
+        "spellId": 3932,
+        "name": "Target Dummy",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4363,
+                "count": 1
+            },
+            {
+                "itemId": 4359,
+                "count": 2
+            },
+            {
+                "itemId": 2841,
+                "count": 1
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 85,
+            "r1": 85,
+            "r2": 115,
+            "r3": 130,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 4404,
+        "spellId": 3973,
+        "name": "Silver Contact",
+        "count": "5",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2842,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 90,
+            "r1": 90,
+            "r2": 110,
+            "r3": 125,
+            "r4": 140
+        }
+    },
+    {
+        "itemId": 6714,
+        "spellId": 8339,
+        "name": "EZ-Thro Dynamite",
+        "count": "1-3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 4
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 115,
+            "r3": 122,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 6712,
+        "spellId": 8334,
+        "name": "Practice Lock",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 1
+            },
+            {
+                "itemId": 4359,
+                "count": 2
+            },
+            {
+                "itemId": 2880,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 115,
+            "r3": 122,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 4368,
+        "spellId": 3934,
+        "name": "Flying Tiger Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2318,
+                "count": 6
+            },
+            {
+                "itemId": 818,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 130,
+            "r3": 145,
+            "r4": 160
+        }
+    },
+    {
+        "itemId": 4367,
+        "spellId": 3933,
+        "name": "Small Seaforium Charge",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 2
+            },
+            {
+                "itemId": 4363,
+                "count": 1
+            },
+            {
+                "itemId": 2318,
+                "count": 1
+            },
+            {
+                "itemId": 159,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 130,
+            "r3": 145,
+            "r4": 160
+        }
+    },
+    {
+        "itemId": 4371,
+        "spellId": 3938,
+        "name": "Bronze Tube",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 2
+            },
+            {
+                "itemId": 2880,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 105,
+            "r1": 105,
+            "r2": 105,
+            "r3": 130,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 4370,
+        "spellId": 3937,
+        "name": "Large Copper Bomb",
+        "count": "2-4",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2840,
+                "count": 3
+            },
+            {
+                "itemId": 4364,
+                "count": 4
+            },
+            {
+                "itemId": 4404,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 105,
+            "r1": 105,
+            "r2": 105,
+            "r3": 130,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 4369,
+        "spellId": 3936,
+        "name": "Deadly Blunderbuss",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4361,
+                "count": 2
+            },
+            {
+                "itemId": 4359,
+                "count": 4
+            },
+            {
+                "itemId": 4399,
+                "count": 1
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 105,
+            "r1": 105,
+            "r2": 130,
+            "r3": 142,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 4406,
+        "spellId": 3978,
+        "name": "Standard Scope",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 1
+            },
+            {
+                "itemId": 1206,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 135,
+            "r3": 147,
+            "r4": 160
+        }
+    },
+    {
+        "itemId": 4374,
+        "spellId": 3941,
+        "name": "Small Bronze Bomb",
+        "count": "1-3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 4
+            },
+            {
+                "itemId": 2841,
+                "count": 2
+            },
+            {
+                "itemId": 4404,
+                "count": 1
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 120,
+            "r3": 145,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 4372,
+        "spellId": 3939,
+        "name": "Lovingly Crafted Boomstick",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 2
+            },
+            {
+                "itemId": 4359,
+                "count": 2
+            },
+            {
+                "itemId": 4400,
+                "count": 1
+            },
+            {
+                "itemId": 1206,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 145,
+            "r3": 157,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 4373,
+        "spellId": 3940,
+        "name": "Shadow Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2319,
+                "count": 4
+            },
+            {
+                "itemId": 1210,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 145,
+            "r3": 157,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 8069,
+        "spellId": 3947,
+        "name": "Crafted Solid Shot",
+        "count": "200",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 2841,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 135,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 4377,
+        "spellId": 3945,
+        "name": "Heavy Blasting Powder",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2838,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 135,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 4378,
+        "spellId": 3946,
+        "name": "Heavy Dynamite",
+        "count": "1-5",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 2
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 135,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 21558,
+        "spellId": 26416,
+        "name": "Small Blue Rocket",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 1
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 137,
+            "r4": 150
+        }
+    },
+    {
+        "itemId": 21559,
+        "spellId": 26417,
+        "name": "Small Green Rocket",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 1
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 137,
+            "r4": 150
+        }
+    },
+    {
+        "itemId": 21557,
+        "spellId": 26418,
+        "name": "Small Red Rocket",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4364,
+                "count": 1
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 137,
+            "r4": 150
+        }
+    },
+    {
+        "itemId": 4376,
+        "spellId": 3944,
+        "name": "Flame Deflector",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4375,
+                "count": 1
+            },
+            {
+                "itemId": 4402,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 150,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 4375,
+        "spellId": 3942,
+        "name": "Whirring Bronze Gizmo",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 2
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 125,
+            "r3": 150,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 7506,
+        "spellId": 9269,
+        "name": "Gnomish Universal Remote",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 6
+            },
+            {
+                "itemId": 4375,
+                "count": 1
+            },
+            {
+                "itemId": 814,
+                "count": 2
+            },
+            {
+                "itemId": 818,
+                "count": 1
+            },
+            {
+                "itemId": 774,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 150,
+            "r3": 162,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 4379,
+        "spellId": 3949,
+        "name": "Silver-plated Shotgun",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 2
+            },
+            {
+                "itemId": 4375,
+                "count": 2
+            },
+            {
+                "itemId": 4400,
+                "count": 1
+            },
+            {
+                "itemId": 2842,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 130,
+            "r1": 130,
+            "r2": 155,
+            "r3": 167,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 5507,
+        "spellId": 6458,
+        "name": "Ornate Spyglass",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 2
+            },
+            {
+                "itemId": 4375,
+                "count": 2
+            },
+            {
+                "itemId": 4363,
+                "count": 1
+            },
+            {
+                "itemId": 1206,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 135,
+            "r1": 135,
+            "r2": 160,
+            "r3": 172,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 4380,
+        "spellId": 3950,
+        "name": "Big Bronze Bomb",
+        "count": "2-4",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 2
+            },
+            {
+                "itemId": 2841,
+                "count": 3
+            },
+            {
+                "itemId": 4404,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 140,
+            "r1": 140,
+            "r2": 140,
+            "r3": 165,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 4381,
+        "spellId": 3952,
+        "name": "Minor Recombobulator",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 1
+            },
+            {
+                "itemId": 4375,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            },
+            {
+                "itemId": 1206,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 140,
+            "r1": 140,
+            "r2": 165,
+            "r3": 177,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 4382,
+        "spellId": 3953,
+        "name": "Bronze Framework",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 1
+            },
+            {
+                "itemId": 2592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 145,
+            "r3": 170,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 4383,
+        "spellId": 3954,
+        "name": "Moonsight Rifle",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 3
+            },
+            {
+                "itemId": 4375,
+                "count": 3
+            },
+            {
+                "itemId": 4400,
+                "count": 1
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 170,
+            "r3": 182,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 6533,
+        "spellId": 9271,
+        "name": "Aquadynamic Fish Attractor",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2841,
+                "count": 2
+            },
+            {
+                "itemId": 6530,
+                "count": 1
+            },
+            {
+                "itemId": 4364,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 150,
+            "r3": 160,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 9312,
+        "spellId": 23067,
+        "name": "Blue Firework",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 150,
+            "r3": 162,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 9313,
+        "spellId": 23068,
+        "name": "Green Firework",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 150,
+            "r3": 162,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 9318,
+        "spellId": 23066,
+        "name": "Red Firework",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 150,
+            "r3": 162,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 10558,
+        "spellId": 12584,
+        "name": "Gold Power Core",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3577,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 150,
+            "r3": 170,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 4384,
+        "spellId": 3955,
+        "name": "Explosive Sheep",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4382,
+                "count": 1
+            },
+            {
+                "itemId": 4375,
+                "count": 1
+            },
+            {
+                "itemId": 4377,
+                "count": 2
+            },
+            {
+                "itemId": 2592,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 175,
+            "r3": 187,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 4385,
+        "spellId": 3956,
+        "name": "Green Tinted Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 2319,
+                "count": 4
+            },
+            {
+                "itemId": 1206,
+                "count": 2
+            },
+            {
+                "itemId": 4368,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 175,
+            "r3": 187,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 4386,
+        "spellId": 3957,
+        "name": "Ice Deflector",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4375,
+                "count": 1
+            },
+            {
+                "itemId": 3829,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 155,
+            "r1": 155,
+            "r2": 175,
+            "r3": 185,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 4387,
+        "spellId": 3958,
+        "name": "Iron Strut",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 160,
+            "r3": 170,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 4388,
+        "spellId": 3959,
+        "name": "Discombobulator Ray",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4375,
+                "count": 3
+            },
+            {
+                "itemId": 4306,
+                "count": 2
+            },
+            {
+                "itemId": 1529,
+                "count": 1
+            },
+            {
+                "itemId": 4371,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 180,
+            "r3": 190,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 7148,
+        "spellId": 9273,
+        "name": "Goblin Jumper Cables",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 6
+            },
+            {
+                "itemId": 4375,
+                "count": 2
+            },
+            {
+                "itemId": 814,
+                "count": 2
+            },
+            {
+                "itemId": 4306,
+                "count": 2
+            },
+            {
+                "itemId": 1210,
+                "count": 2
+            },
+            {
+                "itemId": 7191,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 165,
+            "r1": 165,
+            "r2": 165,
+            "r3": 180,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 4403,
+        "spellId": 3960,
+        "name": "Portable Bronze Mortar",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 4
+            },
+            {
+                "itemId": 4387,
+                "count": 1
+            },
+            {
+                "itemId": 4377,
+                "count": 4
+            },
+            {
+                "itemId": 2319,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 165,
+            "r1": 165,
+            "r2": 185,
+            "r3": 195,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 4389,
+        "spellId": 3961,
+        "name": "Gyrochronatom",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 1
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 170,
+            "r1": 170,
+            "r2": 170,
+            "r3": 190,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 10505,
+        "spellId": 12585,
+        "name": "Solid Blasting Powder",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 7912,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 185,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 10507,
+        "spellId": 12586,
+        "name": "Solid Dynamite",
+        "count": "2",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10505,
+                "count": 1
+            },
+            {
+                "itemId": 4306,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 185,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 21589,
+        "spellId": 26420,
+        "name": "Large Blue Rocket",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 187,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 21590,
+        "spellId": 26421,
+        "name": "Large Green Rocket",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 187,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 21592,
+        "spellId": 26422,
+        "name": "Large Red Rocket",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 187,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 4391,
+        "spellId": 3963,
+        "name": "Compact Harvest Reaper Kit",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4387,
+                "count": 2
+            },
+            {
+                "itemId": 4382,
+                "count": 1
+            },
+            {
+                "itemId": 4389,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 195,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 10498,
+        "spellId": 12590,
+        "name": "Gyromatic Micro-Adjustor",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3859,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 195,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 4390,
+        "spellId": 3962,
+        "name": "Iron Grenade",
+        "count": "2-4",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 1
+            },
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4306,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 175,
+            "r3": 195,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 10499,
+        "spellId": 12587,
+        "name": "Bright-Eye Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4234,
+                "count": 6
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 195,
+            "r3": 205,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 4407,
+        "spellId": 3979,
+        "name": "Accurate Scope",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4371,
+                "count": 1
+            },
+            {
+                "itemId": 1529,
+                "count": 1
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 200,
+            "r3": 210,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 4392,
+        "spellId": 3965,
+        "name": "Advanced Target Dummy",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4387,
+                "count": 1
+            },
+            {
+                "itemId": 4382,
+                "count": 1
+            },
+            {
+                "itemId": 4389,
+                "count": 1
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 185,
+            "r3": 205,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 4852,
+        "spellId": 8243,
+        "name": "Flash Bomb",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4611,
+                "count": 1
+            },
+            {
+                "itemId": 4377,
+                "count": 1
+            },
+            {
+                "itemId": 4306,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 185,
+            "r3": 205,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 4393,
+        "spellId": 3966,
+        "name": "Craftsman's Monocle",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4234,
+                "count": 6
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 205,
+            "r3": 215,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 4394,
+        "spellId": 3967,
+        "name": "Big Iron Bomb",
+        "count": "2",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3575,
+                "count": 3
+            },
+            {
+                "itemId": 4377,
+                "count": 3
+            },
+            {
+                "itemId": 4404,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 190,
+            "r3": 210,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 17716,
+        "spellId": 21940,
+        "name": "SnowMaster 9000",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 8
+            },
+            {
+                "itemId": 4389,
+                "count": 4
+            },
+            {
+                "itemId": 17202,
+                "count": 4
+            },
+            {
+                "itemId": 3829,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 190,
+            "r3": 210,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 10559,
+        "spellId": 12589,
+        "name": "Mithril Tube",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 195,
+            "r1": 195,
+            "r2": 195,
+            "r3": 215,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 4395,
+        "spellId": 3968,
+        "name": "Goblin Land Mine",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4377,
+                "count": 3
+            },
+            {
+                "itemId": 3575,
+                "count": 2
+            },
+            {
+                "itemId": 4389,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 195,
+            "r1": 195,
+            "r2": 215,
+            "r3": 225,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 18588,
+        "spellId": 23069,
+        "name": "EZ-Thro Dynamite II",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10505,
+                "count": 1
+            },
+            {
+                "itemId": 4338,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 210,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 4398,
+        "spellId": 3972,
+        "name": "Large Seaforium Charge",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10505,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            },
+            {
+                "itemId": 159,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 220,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 11590,
+        "spellId": 15255,
+        "name": "Mechanical Repair Kit",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 1
+            },
+            {
+                "itemId": 4338,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 220,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 10560,
+        "spellId": 12591,
+        "name": "Unstable Trigger",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 1
+            },
+            {
+                "itemId": 4338,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 200,
+            "r3": 220,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 4397,
+        "spellId": 3971,
+        "name": "Gnomish Cloaking Device",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4389,
+                "count": 4
+            },
+            {
+                "itemId": 1529,
+                "count": 2
+            },
+            {
+                "itemId": 1705,
+                "count": 2
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            },
+            {
+                "itemId": 7191,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 220,
+            "r3": 230,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 4396,
+        "spellId": 3969,
+        "name": "Mechanical Dragonling",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4382,
+                "count": 1
+            },
+            {
+                "itemId": 4387,
+                "count": 4
+            },
+            {
+                "itemId": 4389,
+                "count": 4
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            },
+            {
+                "itemId": 7191,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 220,
+            "r3": 230,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 10644,
+        "spellId": 12715,
+        "name": "Goblin Rocket Fuel Recipe",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 10648,
+                "count": 1
+            },
+            {
+                "itemId": 10647,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 205,
+            "r3": 205,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 10713,
+        "spellId": 12895,
+        "name": "Inlaid Mithril Cylinder Plans",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10648,
+                "count": 1
+            },
+            {
+                "itemId": 10647,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 205,
+            "r3": 205,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 11826,
+        "spellId": 15633,
+        "name": "Lil' Smoky",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 7075,
+                "count": 1
+            },
+            {
+                "itemId": 4389,
+                "count": 2
+            },
+            {
+                "itemId": 7191,
+                "count": 1
+            },
+            {
+                "itemId": 3860,
+                "count": 2
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 205,
+            "r3": 205,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 11825,
+        "spellId": 15628,
+        "name": "Pet Bombling",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 4394,
+                "count": 1
+            },
+            {
+                "itemId": 7077,
+                "count": 1
+            },
+            {
+                "itemId": 7191,
+                "count": 1
+            },
+            {
+                "itemId": 3860,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 205,
+            "r3": 205,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 10646,
+        "spellId": 12760,
+        "name": "Goblin Sapper Charge",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 4338,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 3
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 205,
+            "r3": 225,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 10500,
+        "spellId": 12594,
+        "name": "Fire Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4385,
+                "count": 1
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            },
+            {
+                "itemId": 7068,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 10716,
+        "spellId": 12899,
+        "name": "Gnomish Shrink Ray",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 1
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 3860,
+                "count": 4
+            },
+            {
+                "itemId": 8151,
+                "count": 4
+            },
+            {
+                "itemId": 1529,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 10543,
+        "spellId": 12718,
+        "name": "Goblin Construction Helmet",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 8
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            },
+            {
+                "itemId": 7068,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 10542,
+        "spellId": 12717,
+        "name": "Goblin Mining Helmet",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 8
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            },
+            {
+                "itemId": 7067,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 10508,
+        "spellId": 12595,
+        "name": "Mithril Blunderbuss",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 1
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 4400,
+                "count": 1
+            },
+            {
+                "itemId": 3860,
+                "count": 4
+            },
+            {
+                "itemId": 7068,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 225,
+            "r3": 235,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 10577,
+        "spellId": 13240,
+        "name": "The Mortar: Reloaded",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 10577,
+                "count": 1
+            },
+            {
+                "itemId": 3860,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": null,
+            "r2": null,
+            "r3": null,
+            "r4": null
+        }
+    },
+    {
+        "itemId": 10512,
+        "spellId": 12596,
+        "name": "Hi-Impact Mithril Slugs",
+        "count": "200",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 210,
+            "r3": 230,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 10546,
+        "spellId": 12597,
+        "name": "Deadly Scope",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 1
+            },
+            {
+                "itemId": 7909,
+                "count": 2
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 230,
+            "r3": 240,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 10545,
+        "spellId": 12897,
+        "name": "Gnomish Goggles",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10500,
+                "count": 1
+            },
+            {
+                "itemId": 10559,
+                "count": 1
+            },
+            {
+                "itemId": 10558,
+                "count": 2
+            },
+            {
+                "itemId": 8151,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 230,
+            "r3": 240,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 10720,
+        "spellId": 12902,
+        "name": "Gnomish Net-o-Matic Projector",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 1
+            },
+            {
+                "itemId": 10285,
+                "count": 2
+            },
+            {
+                "itemId": 4337,
+                "count": 4
+            },
+            {
+                "itemId": 10505,
+                "count": 2
+            },
+            {
+                "itemId": 3860,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 230,
+            "r3": 240,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 10561,
+        "spellId": 12599,
+        "name": "Mithril Casing",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 215,
+            "r3": 235,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 10514,
+        "spellId": 12603,
+        "name": "Mithril Frag Bomb",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 215,
+            "r3": 235,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 10721,
+        "spellId": 12903,
+        "name": "Gnomish Harm Prevention Belt",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 7387,
+                "count": 1
+            },
+            {
+                "itemId": 3860,
+                "count": 4
+            },
+            {
+                "itemId": 6037,
+                "count": 2
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 7909,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 235,
+            "r3": 245,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 10501,
+        "spellId": 12607,
+        "name": "Catseye Ultra Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4304,
+                "count": 4
+            },
+            {
+                "itemId": 7909,
+                "count": 2
+            },
+            {
+                "itemId": 10592,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 220,
+            "r1": 220,
+            "r2": 240,
+            "r3": 250,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 10510,
+        "spellId": 12614,
+        "name": "Mithril Heavy-bore Rifle",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 2
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 4400,
+                "count": 1
+            },
+            {
+                "itemId": 3860,
+                "count": 6
+            },
+            {
+                "itemId": 3864,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 220,
+            "r1": 220,
+            "r2": 240,
+            "r3": 250,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 21571,
+        "spellId": 26423,
+        "name": "Blue Rocket Cluster",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10505,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 21574,
+        "spellId": 26424,
+        "name": "Green Rocket Cluster",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10505,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 21576,
+        "spellId": 26425,
+        "name": "Red Rocket Cluster",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10505,
+                "count": 1
+            },
+            {
+                "itemId": 4304,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 225,
+            "r3": 237,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 21569,
+        "spellId": 26442,
+        "name": "Firework Launcher",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 9060,
+                "count": 1
+            },
+            {
+                "itemId": 9061,
+                "count": 1
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 10561,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 245,
+            "r3": 255,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 10724,
+        "spellId": 12905,
+        "name": "Gnomish Rocket Boots",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10026,
+                "count": 1
+            },
+            {
+                "itemId": 10559,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            },
+            {
+                "itemId": 10505,
+                "count": 8
+            },
+            {
+                "itemId": 4389,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 245,
+            "r3": 255,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 7189,
+        "spellId": 8895,
+        "name": "Goblin Rocket Boots",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 10026,
+                "count": 1
+            },
+            {
+                "itemId": 10559,
+                "count": 2
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            },
+            {
+                "itemId": 9061,
+                "count": 2
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 245,
+            "r3": 255,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 10518,
+        "spellId": 12616,
+        "name": "Parachute Cloak",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 10285,
+                "count": 2
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 245,
+            "r3": 255,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 10502,
+        "spellId": 12615,
+        "name": "Spellpower Goggles Xtreme",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4304,
+                "count": 4
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 245,
+            "r3": 255,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 10587,
+        "spellId": 12755,
+        "name": "Goblin Bomb Dispenser",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 2
+            },
+            {
+                "itemId": 10505,
+                "count": 4
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 4407,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 230,
+            "r3": 250,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10506,
+        "spellId": 12617,
+        "name": "Deepdive Helmet",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 8
+            },
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 818,
+                "count": 4
+            },
+            {
+                "itemId": 774,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10725,
+        "spellId": 12906,
+        "name": "Gnomish Battle Chicken",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 3860,
+                "count": 6
+            },
+            {
+                "itemId": 9060,
+                "count": 2
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            },
+            {
+                "itemId": 1529,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10503,
+        "spellId": 12618,
+        "name": "Rose Colored Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4304,
+                "count": 6
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10562,
+        "spellId": 12619,
+        "name": "Hi-Explosive Bomb",
+        "count": "4",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 2
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 10505,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 235,
+            "r3": 255,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 10586,
+        "spellId": 12754,
+        "name": "The Big One",
+        "count": "2",
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 9061,
+                "count": 1
+            },
+            {
+                "itemId": 10507,
+                "count": 6
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 235,
+            "r3": 255,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 10726,
+        "spellId": 12907,
+        "name": "Gnomish Mind Control Cap",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 10
+            },
+            {
+                "itemId": 6037,
+                "count": 4
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            },
+            {
+                "itemId": 4338,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 255,
+            "r3": 265,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 10645,
+        "spellId": 12759,
+        "name": "Gnomish Death Ray",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 2
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 12808,
+                "count": 1
+            },
+            {
+                "itemId": 7972,
+                "count": 4
+            },
+            {
+                "itemId": 9060,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 260,
+            "r3": 270,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 10727,
+        "spellId": 12908,
+        "name": "Goblin Dragon Gun",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 2
+            },
+            {
+                "itemId": 9061,
+                "count": 4
+            },
+            {
+                "itemId": 3860,
+                "count": 6
+            },
+            {
+                "itemId": 6037,
+                "count": 6
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 260,
+            "r3": 270,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 10548,
+        "spellId": 12620,
+        "name": "Sniper Scope",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 1
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            },
+            {
+                "itemId": 6037,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 260,
+            "r3": 270,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 10513,
+        "spellId": 12621,
+        "name": "Mithril Gyro-Shot",
+        "count": "200",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 2
+            },
+            {
+                "itemId": 10505,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 245,
+            "r3": 265,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 10588,
+        "spellId": 12758,
+        "name": "Goblin Rocket Helmet",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 10543,
+                "count": 1
+            },
+            {
+                "itemId": 9061,
+                "count": 4
+            },
+            {
+                "itemId": 3860,
+                "count": 4
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 265,
+            "r3": 275,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 10504,
+        "spellId": 12622,
+        "name": "Green Lens",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 4304,
+                "count": 8
+            },
+            {
+                "itemId": 1529,
+                "count": 3
+            },
+            {
+                "itemId": 7909,
+                "count": 3
+            },
+            {
+                "itemId": 10286,
+                "count": 2
+            },
+            {
+                "itemId": 8153,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 265,
+            "r3": 275,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 15992,
+        "spellId": 19788,
+        "name": "Dense Blasting Powder",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12365,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 250,
+            "r3": 255,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 18641,
+        "spellId": 23070,
+        "name": "Dense Dynamite",
+        "count": "2",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15992,
+                "count": 2
+            },
+            {
+                "itemId": 14047,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 19026,
+        "spellId": 23507,
+        "name": "Snake Burst Firework",
+        "count": "4",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15992,
+                "count": 2
+            },
+            {
+                "itemId": 14047,
+                "count": 2
+            },
+            {
+                "itemId": 8150,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 250,
+            "r3": 260,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10576,
+        "spellId": 12624,
+        "name": "Mithril Mechanical Dragonling",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 14
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            },
+            {
+                "itemId": 6037,
+                "count": 4
+            },
+            {
+                "itemId": 9060,
+                "count": 2
+            },
+            {
+                "itemId": 9061,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 270,
+            "r3": 280,
+            "r4": 290
+        }
+    },
+    {
+        "itemId": 15846,
+        "spellId": 19567,
+        "name": "Salt Shaker",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 12359,
+                "count": 6
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            },
+            {
+                "itemId": 10560,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 270,
+            "r3": 280,
+            "r4": 290
+        }
+    },
+    {
+        "itemId": 21277,
+        "spellId": 26011,
+        "name": "Tranquil Mechanical Yeti",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15407,
+                "count": 1
+            },
+            {
+                "itemId": 15994,
+                "count": 4
+            },
+            {
+                "itemId": 7079,
+                "count": 2
+            },
+            {
+                "itemId": 18631,
+                "count": 2
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 18660,
+        "spellId": 23129,
+        "name": "World Enlarger",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            },
+            {
+                "itemId": 10560,
+                "count": 1
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 260,
+            "r3": 265,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 18631,
+        "spellId": 23071,
+        "name": "Truesilver Transformer",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 6037,
+                "count": 2
+            },
+            {
+                "itemId": 7067,
+                "count": 2
+            },
+            {
+                "itemId": 7069,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 270,
+            "r3": 275,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 18634,
+        "spellId": 23077,
+        "name": "Gyrofreeze Ice Reflector",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15994,
+                "count": 6
+            },
+            {
+                "itemId": 18631,
+                "count": 2
+            },
+            {
+                "itemId": 12361,
+                "count": 2
+            },
+            {
+                "itemId": 7078,
+                "count": 4
+            },
+            {
+                "itemId": 3829,
+                "count": 2
+            },
+            {
+                "itemId": 13467,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 280,
+            "r3": 290,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 15993,
+        "spellId": 19790,
+        "name": "Thorium Grenade",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15994,
+                "count": 1
+            },
+            {
+                "itemId": 12359,
+                "count": 3
+            },
+            {
+                "itemId": 15992,
+                "count": 3
+            },
+            {
+                "itemId": 14047,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 280,
+            "r3": 290,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 15995,
+        "spellId": 19792,
+        "name": "Thorium Rifle",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10559,
+                "count": 2
+            },
+            {
+                "itemId": 10561,
+                "count": 2
+            },
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 12359,
+                "count": 4
+            },
+            {
+                "itemId": 10546,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 280,
+            "r3": 290,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 15994,
+        "spellId": 19791,
+        "name": "Thorium Widget",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 3
+            },
+            {
+                "itemId": 14047,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 280,
+            "r3": 290,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 18645,
+        "spellId": 23096,
+        "name": "Alarm-O-Bot",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 4
+            },
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            },
+            {
+                "itemId": 7191,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 275,
+            "r3": 280,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 18587,
+        "spellId": 23078,
+        "name": "Goblin Jumper Cables XL",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 18631,
+                "count": 2
+            },
+            {
+                "itemId": 7191,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 285,
+            "r3": 295,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 15996,
+        "spellId": 19793,
+        "name": "Lifelike Mechanical Toad",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12803,
+                "count": 1
+            },
+            {
+                "itemId": 15994,
+                "count": 4
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            },
+            {
+                "itemId": 8170,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 285,
+            "r3": 295,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 15999,
+        "spellId": 19794,
+        "name": "Spellpower Goggles Xtreme Plus",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10502,
+                "count": 1
+            },
+            {
+                "itemId": 7910,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            },
+            {
+                "itemId": 14047,
+                "count": 8
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 290,
+            "r3": 300,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 21714,
+        "spellId": 26426,
+        "name": "Large Blue Rocket Cluster",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15992,
+                "count": 1
+            },
+            {
+                "itemId": 8170,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 275,
+            "r3": 280,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 21716,
+        "spellId": 26427,
+        "name": "Large Green Rocket Cluster",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15992,
+                "count": 1
+            },
+            {
+                "itemId": 8170,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 275,
+            "r3": 280,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 21718,
+        "spellId": 26428,
+        "name": "Large Red Rocket Cluster",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15992,
+                "count": 1
+            },
+            {
+                "itemId": 8170,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 275,
+            "r3": 280,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 18594,
+        "spellId": 23080,
+        "name": "Powerful Seaforium Charge",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 15992,
+                "count": 3
+            },
+            {
+                "itemId": 8170,
+                "count": 2
+            },
+            {
+                "itemId": 159,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 275,
+            "r3": 285,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 18637,
+        "spellId": 23079,
+        "name": "Major Recombobulator",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 16000,
+                "count": 2
+            },
+            {
+                "itemId": 18631,
+                "count": 1
+            },
+            {
+                "itemId": 14047,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 285,
+            "r3": 290,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 16004,
+        "spellId": 19796,
+        "name": "Dark Iron Rifle",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 16000,
+                "count": 2
+            },
+            {
+                "itemId": 11371,
+                "count": 6
+            },
+            {
+                "itemId": 10546,
+                "count": 2
+            },
+            {
+                "itemId": 12361,
+                "count": 2
+            },
+            {
+                "itemId": 12799,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 295,
+            "r3": 305,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 21570,
+        "spellId": 26443,
+        "name": "Firework Cluster Launcher",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 9060,
+                "count": 4
+            },
+            {
+                "itemId": 9061,
+                "count": 4
+            },
+            {
+                "itemId": 18631,
+                "count": 2
+            },
+            {
+                "itemId": 10561,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 295,
+            "r3": 305,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 16023,
+        "spellId": 19814,
+        "name": "Masterwork Target Dummy",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 16000,
+                "count": 1
+            },
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 8170,
+                "count": 2
+            },
+            {
+                "itemId": 14047,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 295,
+            "r3": 305,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 22728,
+        "spellId": 28327,
+        "name": "Steam Tonk Controller",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 10561,
+                "count": 1
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 295,
+            "r3": 305,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 16000,
+        "spellId": 19795,
+        "name": "Thorium Tube",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 295,
+            "r3": 305,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 18984,
+        "spellId": 23486,
+        "name": "Dimensional Ripper - Everlook",
+        "count": null,
+        "type": "Engineering: Goblin Engineer",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 10
+            },
+            {
+                "itemId": 18631,
+                "count": 1
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            },
+            {
+                "itemId": 10586,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": null,
+            "r2": 285,
+            "r3": 295,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 18986,
+        "spellId": 23489,
+        "name": "Ultrasafe Transporter - Gadgetzan",
+        "count": null,
+        "type": "Engineering: Gnomish Engineer",
+        "mats": [
+            {
+                "itemId": 3860,
+                "count": 12
+            },
+            {
+                "itemId": 18631,
+                "count": 2
+            },
+            {
+                "itemId": 7075,
+                "count": 4
+            },
+            {
+                "itemId": 7079,
+                "count": 2
+            },
+            {
+                "itemId": 7909,
+                "count": 4
+            },
+            {
+                "itemId": 9060,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": null,
+            "r2": 285,
+            "r3": 295,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 16005,
+        "spellId": 19799,
+        "name": "Dark Iron Bomb",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 15994,
+                "count": 2
+            },
+            {
+                "itemId": 11371,
+                "count": 1
+            },
+            {
+                "itemId": 15992,
+                "count": 3
+            },
+            {
+                "itemId": 14047,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 305,
+            "r3": 315,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 16006,
+        "spellId": 19815,
+        "name": "Delicate Arcanite Converter",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 1
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 305,
+            "r3": 315,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 15997,
+        "spellId": 19800,
+        "name": "Thorium Shells",
+        "count": "200",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 2
+            },
+            {
+                "itemId": 15992,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 305,
+            "r3": 315,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 18638,
+        "spellId": 23081,
+        "name": "Hyper-Radiant Flame Reflector",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 4
+            },
+            {
+                "itemId": 18631,
+                "count": 3
+            },
+            {
+                "itemId": 7080,
+                "count": 6
+            },
+            {
+                "itemId": 7910,
+                "count": 4
+            },
+            {
+                "itemId": 12800,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 16008,
+        "spellId": 19825,
+        "name": "Master Engineer's Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10500,
+                "count": 1
+            },
+            {
+                "itemId": 12364,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 16009,
+        "spellId": 19819,
+        "name": "Voice Amplification Modulator",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 16006,
+                "count": 2
+            },
+            {
+                "itemId": 10558,
+                "count": 1
+            },
+            {
+                "itemId": 15994,
+                "count": 1
+            },
+            {
+                "itemId": 12799,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 310,
+            "r3": 320,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 16040,
+        "spellId": 19831,
+        "name": "Arcane Bomb",
+        "count": "3",
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 16006,
+                "count": 1
+            },
+            {
+                "itemId": 12359,
+                "count": 3
+            },
+            {
+                "itemId": 14047,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 16022,
+        "spellId": 19830,
+        "name": "Arcanite Dragonling",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 10576,
+                "count": 1
+            },
+            {
+                "itemId": 16006,
+                "count": 8
+            },
+            {
+                "itemId": 12655,
+                "count": 10
+            },
+            {
+                "itemId": 15994,
+                "count": 6
+            },
+            {
+                "itemId": 10558,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 18283,
+        "spellId": 22793,
+        "name": "Biznicks 247x128 Accurascope",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 17011,
+                "count": 2
+            },
+            {
+                "itemId": 7076,
+                "count": 2
+            },
+            {
+                "itemId": 16006,
+                "count": 4
+            },
+            {
+                "itemId": 11371,
+                "count": 6
+            },
+            {
+                "itemId": 16000,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19999,
+        "spellId": 24356,
+        "name": "Bloodvine Goggles",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 19726,
+                "count": 4
+            },
+            {
+                "itemId": 19774,
+                "count": 5
+            },
+            {
+                "itemId": 16006,
+                "count": 2
+            },
+            {
+                "itemId": 12804,
+                "count": 8
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19998,
+        "spellId": 24357,
+        "name": "Bloodvine Lens",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 19726,
+                "count": 5
+            },
+            {
+                "itemId": 19774,
+                "count": 5
+            },
+            {
+                "itemId": 16006,
+                "count": 1
+            },
+            {
+                "itemId": 12804,
+                "count": 8
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 18282,
+        "spellId": 22795,
+        "name": "Core Marksman Rifle",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 17010,
+                "count": 4
+            },
+            {
+                "itemId": 17011,
+                "count": 2
+            },
+            {
+                "itemId": 12360,
+                "count": 6
+            },
+            {
+                "itemId": 16006,
+                "count": 2
+            },
+            {
+                "itemId": 16000,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 18232,
+        "spellId": 22704,
+        "name": "Field Repair Bot 74A",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12359,
+                "count": 12
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 7191,
+                "count": 1
+            },
+            {
+                "itemId": 7067,
+                "count": 2
+            },
+            {
+                "itemId": 7068,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 16007,
+        "spellId": 19833,
+        "name": "Flawless Arcanite Rifle",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 10
+            },
+            {
+                "itemId": 16000,
+                "count": 2
+            },
+            {
+                "itemId": 7078,
+                "count": 2
+            },
+            {
+                "itemId": 7076,
+                "count": 2
+            },
+            {
+                "itemId": 12800,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 18168,
+        "spellId": 22797,
+        "name": "Force Reactive Disk",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 12360,
+                "count": 6
+            },
+            {
+                "itemId": 16006,
+                "count": 2
+            },
+            {
+                "itemId": 7082,
+                "count": 8
+            },
+            {
+                "itemId": 12803,
+                "count": 12
+            },
+            {
+                "itemId": 7076,
+                "count": 8
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 18639,
+        "spellId": 23082,
+        "name": "Ultra-Flash Shadow Reflector",
+        "count": null,
+        "type": "Engineering",
+        "mats": [
+            {
+                "itemId": 11371,
+                "count": 8
+            },
+            {
+                "itemId": 18631,
+                "count": 4
+            },
+            {
+                "itemId": 12803,
+                "count": 6
+            },
+            {
+                "itemId": 12808,
+                "count": 4
+            },
+            {
+                "itemId": 12800,
+                "count": 2
+            },
+            {
+                "itemId": 12799,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 330,
+            "r4": 340
+        }
+    }
+]

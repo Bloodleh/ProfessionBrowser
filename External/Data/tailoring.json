@@ -1,0 +1,6646 @@
+[
+    {
+        "itemId": 2996,
+        "spellId": 2963,
+        "name": "Bolt of Linen Cloth",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2589,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 25,
+            "r3": 37,
+            "r4": 50
+        }
+    },
+    {
+        "itemId": 4344,
+        "spellId": 3915,
+        "name": "Brown Linen Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 1
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 35,
+            "r3": 47,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 2570,
+        "spellId": 2387,
+        "name": "Linen Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 1
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 35,
+            "r3": 47,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 10045,
+        "spellId": 12044,
+        "name": "Simple Linen Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 1
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 35,
+            "r3": 47,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 2576,
+        "spellId": 2393,
+        "name": "White Linen Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 1
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 2324,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 1,
+            "r1": 1,
+            "r2": 35,
+            "r3": 47,
+            "r4": 60
+        }
+    },
+    {
+        "itemId": 2568,
+        "spellId": 2385,
+        "name": "Brown Linen Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 1
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 10,
+            "r1": 10,
+            "r2": 45,
+            "r3": 57,
+            "r4": 70
+        }
+    },
+    {
+        "itemId": 7026,
+        "spellId": 8776,
+        "name": "Linen Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 1
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 15,
+            "r1": 15,
+            "r2": 50,
+            "r3": 67,
+            "r4": 85
+        }
+    },
+    {
+        "itemId": 10046,
+        "spellId": 12045,
+        "name": "Simple Linen Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 2
+            },
+            {
+                "itemId": 2318,
+                "count": 1
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 20,
+            "r1": 20,
+            "r2": 50,
+            "r3": 67,
+            "r4": 85
+        }
+    },
+    {
+        "itemId": 4343,
+        "spellId": 3914,
+        "name": "Brown Linen Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 2
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": 30,
+            "r2": 55,
+            "r3": 72,
+            "r4": 90
+        }
+    },
+    {
+        "itemId": 6238,
+        "spellId": 7623,
+        "name": "Brown Linen Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": 30,
+            "r2": 55,
+            "r3": 72,
+            "r4": 90
+        }
+    },
+    {
+        "itemId": 6241,
+        "spellId": 7624,
+        "name": "White Linen Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 2324,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 30,
+            "r1": 30,
+            "r2": 55,
+            "r3": 72,
+            "r4": 90
+        }
+    },
+    {
+        "itemId": 4307,
+        "spellId": 3840,
+        "name": "Heavy Linen Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 2
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 35,
+            "r1": 35,
+            "r2": 60,
+            "r3": 77,
+            "r4": 95
+        }
+    },
+    {
+        "itemId": 2577,
+        "spellId": 2394,
+        "name": "Blue Linen Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 2
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 6260,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 40,
+            "r1": 40,
+            "r2": 65,
+            "r3": 82,
+            "r4": 100
+        }
+    },
+    {
+        "itemId": 2572,
+        "spellId": 2389,
+        "name": "Red Linen Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 2
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 40,
+            "r1": 40,
+            "r2": 65,
+            "r3": 82,
+            "r4": 100
+        }
+    },
+    {
+        "itemId": 2575,
+        "spellId": 2392,
+        "name": "Red Linen Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 2
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 2604,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 40,
+            "r1": 40,
+            "r2": 65,
+            "r3": 82,
+            "r4": 100
+        }
+    },
+    {
+        "itemId": 6786,
+        "spellId": 8465,
+        "name": "Simple Dress",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 2
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 6260,
+                "count": 1
+            },
+            {
+                "itemId": 2324,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 40,
+            "r1": 40,
+            "r2": 65,
+            "r3": 82,
+            "r4": 100
+        }
+    },
+    {
+        "itemId": 4238,
+        "spellId": 3755,
+        "name": "Linen Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 45,
+            "r1": 45,
+            "r2": 70,
+            "r3": 87,
+            "r4": 105
+        }
+    },
+    {
+        "itemId": 6240,
+        "spellId": 7630,
+        "name": "Blue Linen Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 6260,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 55,
+            "r1": 55,
+            "r2": 80,
+            "r3": 97,
+            "r4": 115
+        }
+    },
+    {
+        "itemId": 6239,
+        "spellId": 7629,
+        "name": "Red Linen Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 2604,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 55,
+            "r1": 55,
+            "r2": 80,
+            "r3": 97,
+            "r4": 115
+        }
+    },
+    {
+        "itemId": 4308,
+        "spellId": 3841,
+        "name": "Green Linen Bracers",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 2
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 60,
+            "r1": 60,
+            "r2": 85,
+            "r3": 102,
+            "r4": 120
+        }
+    },
+    {
+        "itemId": 2580,
+        "spellId": 2397,
+        "name": "Reinforced Linen Cape",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 2
+            },
+            {
+                "itemId": 2320,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 60,
+            "r1": 60,
+            "r2": 85,
+            "r3": 102,
+            "r4": 120
+        }
+    },
+    {
+        "itemId": 2569,
+        "spellId": 2386,
+        "name": "Linen Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2320,
+                "count": 1
+            },
+            {
+                "itemId": 2318,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 65,
+            "r1": 65,
+            "r2": 90,
+            "r3": 107,
+            "r4": 125
+        }
+    },
+    {
+        "itemId": 2578,
+        "spellId": 2395,
+        "name": "Barbaric Linen Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 4
+            },
+            {
+                "itemId": 2318,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 70,
+            "r1": 70,
+            "r2": 95,
+            "r3": 112,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 6242,
+        "spellId": 7633,
+        "name": "Blue Linen Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 4
+            },
+            {
+                "itemId": 2320,
+                "count": 2
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 70,
+            "r1": 70,
+            "r2": 95,
+            "r3": 112,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 2579,
+        "spellId": 2396,
+        "name": "Green Linen Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 70,
+            "r1": 70,
+            "r2": 95,
+            "r3": 112,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 4309,
+        "spellId": 3842,
+        "name": "Handstitched Linen Britches",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 70,
+            "r1": 70,
+            "r2": 95,
+            "r3": 112,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 5762,
+        "spellId": 6686,
+        "name": "Red Linen Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            },
+            {
+                "itemId": 2604,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 70,
+            "r1": 70,
+            "r2": 95,
+            "r3": 112,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 2997,
+        "spellId": 2964,
+        "name": "Bolt of Woolen Cloth",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2592,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 90,
+            "r3": 97,
+            "r4": 105
+        }
+    },
+    {
+        "itemId": 10047,
+        "spellId": 12046,
+        "name": "Simple Kilt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 100,
+            "r3": 117,
+            "r4": 135
+        }
+    },
+    {
+        "itemId": 2584,
+        "spellId": 2402,
+        "name": "Woolen Cape",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 75,
+            "r1": 75,
+            "r2": 100,
+            "r3": 117,
+            "r4": 135
+        }
+    },
+    {
+        "itemId": 4312,
+        "spellId": 3845,
+        "name": "Soft-soled Linen Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2996,
+                "count": 5
+            },
+            {
+                "itemId": 2318,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 80,
+            "r1": 80,
+            "r2": 105,
+            "r3": 122,
+            "r4": 140
+        }
+    },
+    {
+        "itemId": 4240,
+        "spellId": 3757,
+        "name": "Woolen Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 80,
+            "r1": 80,
+            "r2": 105,
+            "r3": 122,
+            "r4": 140
+        }
+    },
+    {
+        "itemId": 2582,
+        "spellId": 2399,
+        "name": "Green Woolen Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 85,
+            "r1": 85,
+            "r2": 110,
+            "r3": 127,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 4310,
+        "spellId": 3843,
+        "name": "Heavy Woolen Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 85,
+            "r1": 85,
+            "r2": 110,
+            "r3": 127,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 5542,
+        "spellId": 6521,
+        "name": "Pearl-clasped Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 5498,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 90,
+            "r1": 90,
+            "r2": 115,
+            "r3": 132,
+            "r4": 150
+        }
+    },
+    {
+        "itemId": 4241,
+        "spellId": 3758,
+        "name": "Green Woolen Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 95,
+            "r1": 95,
+            "r2": 120,
+            "r3": 137,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 4313,
+        "spellId": 3847,
+        "name": "Red Woolen Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2318,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 95,
+            "r1": 95,
+            "r2": 120,
+            "r3": 137,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 2583,
+        "spellId": 2401,
+        "name": "Woolen Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 2318,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 95,
+            "r1": 95,
+            "r2": 120,
+            "r3": 137,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 2587,
+        "spellId": 2406,
+        "name": "Gray Woolen Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            },
+            {
+                "itemId": 4340,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 110,
+            "r3": 120,
+            "r4": 130
+        }
+    },
+    {
+        "itemId": 6263,
+        "spellId": 7639,
+        "name": "Blue Overalls",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 125,
+            "r3": 142,
+            "r4": 160
+        }
+    },
+    {
+        "itemId": 4311,
+        "spellId": 3844,
+        "name": "Heavy Woolen Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 5498,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 100,
+            "r1": 100,
+            "r2": 125,
+            "r3": 142,
+            "r4": 160
+        }
+    },
+    {
+        "itemId": 2585,
+        "spellId": 2403,
+        "name": "Gray Woolen Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 3
+            },
+            {
+                "itemId": 4340,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 105,
+            "r1": 105,
+            "r2": 130,
+            "r3": 147,
+            "r4": 165
+        }
+    },
+    {
+        "itemId": 4314,
+        "spellId": 3848,
+        "name": "Double-stitched Woolen Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 135,
+            "r3": 152,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 4316,
+        "spellId": 3850,
+        "name": "Heavy Woolen Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 5
+            },
+            {
+                "itemId": 2321,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 135,
+            "r3": 152,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 4330,
+        "spellId": 3866,
+        "name": "Stylish Red Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 3
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 135,
+            "r3": 152,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 6787,
+        "spellId": 8467,
+        "name": "White Woolen Dress",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 3
+            },
+            {
+                "itemId": 2324,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 110,
+            "r1": 110,
+            "r2": 135,
+            "r3": 152,
+            "r4": 170
+        }
+    },
+    {
+        "itemId": 6264,
+        "spellId": 7643,
+        "name": "Greater Adept's Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 5
+            },
+            {
+                "itemId": 2321,
+                "count": 3
+            },
+            {
+                "itemId": 2604,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 115,
+            "r1": 115,
+            "r2": 140,
+            "r3": 157,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 5763,
+        "spellId": 6688,
+        "name": "Red Woolen Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2604,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 115,
+            "r1": 115,
+            "r2": 140,
+            "r3": 157,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 10048,
+        "spellId": 12047,
+        "name": "Colorful Kilt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 5
+            },
+            {
+                "itemId": 2604,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 145,
+            "r3": 162,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 4315,
+        "spellId": 3849,
+        "name": "Reinforced Woolen Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 6
+            },
+            {
+                "itemId": 2319,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 145,
+            "r3": 162,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 6384,
+        "spellId": 7892,
+        "name": "Stylish Blue Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            },
+            {
+                "itemId": 4340,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 145,
+            "r3": 162,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 6385,
+        "spellId": 7893,
+        "name": "Stylish Green Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2605,
+                "count": 2
+            },
+            {
+                "itemId": 4340,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 120,
+            "r1": 120,
+            "r2": 145,
+            "r3": 162,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 4305,
+        "spellId": 3839,
+        "name": "Bolt of Silk Cloth",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4306,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 135,
+            "r3": 140,
+            "r4": 145
+        }
+    },
+    {
+        "itemId": 4331,
+        "spellId": 3868,
+        "name": "Phoenix Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 5500,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 4
+            },
+            {
+                "itemId": 2324,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 150,
+            "r3": 167,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 4317,
+        "spellId": 3851,
+        "name": "Phoenix Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 6
+            },
+            {
+                "itemId": 5500,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 150,
+            "r3": 167,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 4320,
+        "spellId": 3855,
+        "name": "Spidersilk Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 2
+            },
+            {
+                "itemId": 2319,
+                "count": 4
+            },
+            {
+                "itemId": 3182,
+                "count": 4
+            },
+            {
+                "itemId": 5500,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 125,
+            "r1": 125,
+            "r2": 150,
+            "r3": 167,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 4318,
+        "spellId": 3852,
+        "name": "Gloves of Meditation",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 2997,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 3
+            },
+            {
+                "itemId": 3383,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 130,
+            "r1": 130,
+            "r2": 150,
+            "r3": 165,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 4332,
+        "spellId": 3869,
+        "name": "Bright Yellow Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 1
+            },
+            {
+                "itemId": 4341,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 135,
+            "r1": 135,
+            "r2": 145,
+            "r3": 150,
+            "r4": 155
+        }
+    },
+    {
+        "itemId": 5766,
+        "spellId": 6690,
+        "name": "Lesser Wizard's Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 3182,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 135,
+            "r1": 135,
+            "r2": 155,
+            "r3": 170,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 7046,
+        "spellId": 8758,
+        "name": "Azure Silk Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 140,
+            "r1": 140,
+            "r2": 160,
+            "r3": 175,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 4321,
+        "spellId": 3856,
+        "name": "Spider Silk Slippers",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 3182,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 140,
+            "r1": 140,
+            "r2": 160,
+            "r3": 175,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 7048,
+        "spellId": 8760,
+        "name": "Azure Silk Hood",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 2
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 155,
+            "r3": 160,
+            "r4": 165
+        }
+    },
+    {
+        "itemId": 4319,
+        "spellId": 3854,
+        "name": "Azure Silk Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 165,
+            "r3": 180,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 7047,
+        "spellId": 8780,
+        "name": "Hands of Darkness",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            },
+            {
+                "itemId": 6048,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 145,
+            "r1": 145,
+            "r2": 165,
+            "r3": 180,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 4324,
+        "spellId": 3859,
+        "name": "Azure Silk Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 6260,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 170,
+            "r3": 185,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 5770,
+        "spellId": 6692,
+        "name": "Robes of Arcana",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 3182,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 170,
+            "r3": 185,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 4245,
+        "spellId": 3813,
+        "name": "Small Silk Pack",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 170,
+            "r3": 185,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 7049,
+        "spellId": 8782,
+        "name": "Truefaith Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 4234,
+                "count": 2
+            },
+            {
+                "itemId": 929,
+                "count": 4
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 150,
+            "r1": 150,
+            "r2": 170,
+            "r3": 185,
+            "r4": 200
+        }
+    },
+    {
+        "itemId": 4333,
+        "spellId": 3870,
+        "name": "Dark Silk Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 2
+            },
+            {
+                "itemId": 4340,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 155,
+            "r1": 155,
+            "r2": 165,
+            "r3": 170,
+            "r4": 175
+        }
+    },
+    {
+        "itemId": 7050,
+        "spellId": 8762,
+        "name": "Silk Headband",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 170,
+            "r3": 175,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 6795,
+        "spellId": 8483,
+        "name": "White Swashbuckler's Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 2324,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 160,
+            "r1": 160,
+            "r2": 170,
+            "r3": 175,
+            "r4": 180
+        }
+    },
+    {
+        "itemId": 4322,
+        "spellId": 3857,
+        "name": "Enchanter's Cowl",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 4337,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 165,
+            "r1": 165,
+            "r2": 185,
+            "r3": 200,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 7065,
+        "spellId": 8784,
+        "name": "Green Silk Armor",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 2605,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 165,
+            "r1": 165,
+            "r2": 185,
+            "r3": 200,
+            "r4": 215
+        }
+    },
+    {
+        "itemId": 4334,
+        "spellId": 3871,
+        "name": "Formal White Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 2324,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 170,
+            "r1": 170,
+            "r2": 180,
+            "r3": 185,
+            "r4": 190
+        }
+    },
+    {
+        "itemId": 7051,
+        "spellId": 8764,
+        "name": "Earthen Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 7067,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 170,
+            "r1": 170,
+            "r2": 190,
+            "r3": 205,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 4323,
+        "spellId": 3858,
+        "name": "Shadow Hood",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            },
+            {
+                "itemId": 3824,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 170,
+            "r1": 170,
+            "r2": 190,
+            "r3": 205,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 4339,
+        "spellId": 3865,
+        "name": "Bolt of Mageweave",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4338,
+                "count": 5
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 180,
+            "r3": 182,
+            "r4": 185
+        }
+    },
+    {
+        "itemId": 6796,
+        "spellId": 8489,
+        "name": "Red Swashbuckler's Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 185,
+            "r3": 190,
+            "r4": 195
+        }
+    },
+    {
+        "itemId": 7052,
+        "spellId": 8766,
+        "name": "Azure Silk Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 7070,
+                "count": 1
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            },
+            {
+                "itemId": 7071,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 195,
+            "r3": 210,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 7053,
+        "spellId": 8786,
+        "name": "Azure Silk Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 3
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 195,
+            "r3": 210,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 4325,
+        "spellId": 3860,
+        "name": "Boots of the Enchanter",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            },
+            {
+                "itemId": 4337,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 195,
+            "r3": 210,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 7055,
+        "spellId": 8772,
+        "name": "Crimson Silk Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 7071,
+                "count": 1
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 195,
+            "r3": 210,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 5764,
+        "spellId": 6693,
+        "name": "Green Silk Pack",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 4234,
+                "count": 3
+            },
+            {
+                "itemId": 2321,
+                "count": 3
+            },
+            {
+                "itemId": 2605,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 175,
+            "r1": 175,
+            "r2": 195,
+            "r3": 210,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 7056,
+        "spellId": 8789,
+        "name": "Crimson Silk Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 6371,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 200,
+            "r3": 215,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 7057,
+        "spellId": 8774,
+        "name": "Green Silken Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 200,
+            "r3": 215,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 4328,
+        "spellId": 3863,
+        "name": "Spider Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 4337,
+                "count": 2
+            },
+            {
+                "itemId": 7071,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 180,
+            "r1": 180,
+            "r2": 200,
+            "r3": 215,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 4335,
+        "spellId": 3872,
+        "name": "Rich Purple Silk Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 4342,
+                "count": 1
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 195,
+            "r3": 200,
+            "r4": 205
+        }
+    },
+    {
+        "itemId": 7058,
+        "spellId": 8791,
+        "name": "Crimson Silk Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 2321,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 205,
+            "r3": 215,
+            "r4": 225
+        }
+    },
+    {
+        "itemId": 5765,
+        "spellId": 6695,
+        "name": "Black Silk Pack",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 2325,
+                "count": 1
+            },
+            {
+                "itemId": 2321,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 205,
+            "r3": 220,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 4326,
+        "spellId": 3861,
+        "name": "Long Silken Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 3827,
+                "count": 1
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 185,
+            "r1": 185,
+            "r2": 205,
+            "r3": 220,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 17723,
+        "spellId": 21945,
+        "name": "Green Holiday Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 2605,
+                "count": 4
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 200,
+            "r3": 205,
+            "r4": 210
+        }
+    },
+    {
+        "itemId": 7060,
+        "spellId": 8795,
+        "name": "Azure Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 6
+            },
+            {
+                "itemId": 7072,
+                "count": 2
+            },
+            {
+                "itemId": 6260,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 210,
+            "r3": 225,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 7059,
+        "spellId": 8793,
+        "name": "Crimson Silk Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 6371,
+                "count": 2
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 210,
+            "r3": 225,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 7054,
+        "spellId": 8770,
+        "name": "Robe of Power",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 2
+            },
+            {
+                "itemId": 7067,
+                "count": 2
+            },
+            {
+                "itemId": 7070,
+                "count": 2
+            },
+            {
+                "itemId": 7068,
+                "count": 2
+            },
+            {
+                "itemId": 7069,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 190,
+            "r1": 190,
+            "r2": 210,
+            "r3": 225,
+            "r4": 240
+        }
+    },
+    {
+        "itemId": 7062,
+        "spellId": 8799,
+        "name": "Crimson Silk Pantaloons",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 4
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 195,
+            "r1": 195,
+            "r2": 215,
+            "r3": 225,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 7061,
+        "spellId": 8797,
+        "name": "Earthen Silk Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 7067,
+                "count": 4
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            },
+            {
+                "itemId": 7071,
+                "count": 1
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 195,
+            "r1": 195,
+            "r2": 215,
+            "r3": 230,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 4336,
+        "spellId": 3873,
+        "name": "Black Swashbuckler's Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 5
+            },
+            {
+                "itemId": 2325,
+                "count": 1
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 210,
+            "r3": 215,
+            "r4": 220
+        }
+    },
+    {
+        "itemId": 4327,
+        "spellId": 3862,
+        "name": "Icy Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            },
+            {
+                "itemId": 3829,
+                "count": 1
+            },
+            {
+                "itemId": 4337,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 220,
+            "r3": 235,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 4329,
+        "spellId": 3864,
+        "name": "Star Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 4234,
+                "count": 4
+            },
+            {
+                "itemId": 3864,
+                "count": 1
+            },
+            {
+                "itemId": 7071,
+                "count": 1
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 200,
+            "r1": 200,
+            "r2": 220,
+            "r3": 235,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 9999,
+        "spellId": 12049,
+        "name": "Black Mageweave Leggings",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 220,
+            "r3": 235,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 9998,
+        "spellId": 12048,
+        "name": "Black Mageweave Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 2
+            },
+            {
+                "itemId": 4291,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 220,
+            "r3": 235,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 7063,
+        "spellId": 8802,
+        "name": "Crimson Silk Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 8
+            },
+            {
+                "itemId": 7068,
+                "count": 4
+            },
+            {
+                "itemId": 3827,
+                "count": 2
+            },
+            {
+                "itemId": 2604,
+                "count": 4
+            },
+            {
+                "itemId": 4291,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 205,
+            "r1": 205,
+            "r2": 220,
+            "r3": 235,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 10001,
+        "spellId": 12050,
+        "name": "Black Mageweave Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 225,
+            "r3": 240,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 7064,
+        "spellId": 8804,
+        "name": "Crimson Silk Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4305,
+                "count": 6
+            },
+            {
+                "itemId": 7068,
+                "count": 2
+            },
+            {
+                "itemId": 6371,
+                "count": 2
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            },
+            {
+                "itemId": 2604,
+                "count": 4
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 225,
+            "r3": 240,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 10002,
+        "spellId": 12052,
+        "name": "Shadoweave Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 10285,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 210,
+            "r1": 210,
+            "r2": 225,
+            "r3": 240,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 10056,
+        "spellId": 12061,
+        "name": "Orange Mageweave Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 1
+            },
+            {
+                "itemId": 6261,
+                "count": 1
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 220,
+            "r3": 225,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 10008,
+        "spellId": 12059,
+        "name": "White Bandit Mask",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 1
+            },
+            {
+                "itemId": 2324,
+                "count": 1
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 220,
+            "r3": 225,
+            "r4": 230
+        }
+    },
+    {
+        "itemId": 10003,
+        "spellId": 12053,
+        "name": "Black Mageweave Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 230,
+            "r3": 245,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 10009,
+        "spellId": 12060,
+        "name": "Red Mageweave Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 230,
+            "r3": 245,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 10007,
+        "spellId": 12056,
+        "name": "Red Mageweave Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 230,
+            "r3": 245,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 10004,
+        "spellId": 12055,
+        "name": "Shadoweave Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 10285,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 215,
+            "r1": 215,
+            "r2": 230,
+            "r3": 245,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 10052,
+        "spellId": 12064,
+        "name": "Orange Martial Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 2
+            },
+            {
+                "itemId": 6261,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 220,
+            "r1": 220,
+            "r2": 225,
+            "r3": 230,
+            "r4": 235
+        }
+    },
+    {
+        "itemId": 10042,
+        "spellId": 12069,
+        "name": "Cindercloth Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 5
+            },
+            {
+                "itemId": 7077,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 240,
+            "r3": 255,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10019,
+        "spellId": 12067,
+        "name": "Dreamweave Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 8153,
+                "count": 4
+            },
+            {
+                "itemId": 10286,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 240,
+            "r3": 255,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10021,
+        "spellId": 12070,
+        "name": "Dreamweave Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 6
+            },
+            {
+                "itemId": 8153,
+                "count": 6
+            },
+            {
+                "itemId": 10286,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 240,
+            "r3": 255,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 22246,
+        "spellId": 27658,
+        "name": "Enchanted Mageweave Pouch",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 11137,
+                "count": 4
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 240,
+            "r3": 255,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10050,
+        "spellId": 12065,
+        "name": "Mageweave Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 4291,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 240,
+            "r3": 255,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10018,
+        "spellId": 12066,
+        "name": "Red Mageweave Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 240,
+            "r3": 255,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10023,
+        "spellId": 12071,
+        "name": "Shadoweave Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 5
+            },
+            {
+                "itemId": 10285,
+                "count": 5
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 225,
+            "r1": 225,
+            "r2": 240,
+            "r3": 255,
+            "r4": 270
+        }
+    },
+    {
+        "itemId": 10054,
+        "spellId": 12075,
+        "name": "Lavender Mageweave Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 2
+            },
+            {
+                "itemId": 4342,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 235,
+            "r3": 240,
+            "r4": 245
+        }
+    },
+    {
+        "itemId": 10026,
+        "spellId": 12073,
+        "name": "Black Mageweave Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 245,
+            "r3": 260,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 10024,
+        "spellId": 12072,
+        "name": "Black Mageweave Headband",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 245,
+            "r3": 260,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 10027,
+        "spellId": 12074,
+        "name": "Black Mageweave Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 230,
+            "r1": 230,
+            "r2": 245,
+            "r3": 260,
+            "r4": 275
+        }
+    },
+    {
+        "itemId": 10055,
+        "spellId": 12080,
+        "name": "Pink Mageweave Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 10290,
+                "count": 1
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 240,
+            "r3": 245,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 10053,
+        "spellId": 12077,
+        "name": "Simple Black Dress",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 2325,
+                "count": 1
+            },
+            {
+                "itemId": 8343,
+                "count": 1
+            },
+            {
+                "itemId": 2324,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 240,
+            "r3": 245,
+            "r4": 250
+        }
+    },
+    {
+        "itemId": 10051,
+        "spellId": 12079,
+        "name": "Red Mageweave Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 250,
+            "r3": 265,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 10029,
+        "spellId": 12078,
+        "name": "Red Mageweave Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 250,
+            "r3": 265,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 10028,
+        "spellId": 12076,
+        "name": "Shadoweave Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 5
+            },
+            {
+                "itemId": 10285,
+                "count": 4
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 235,
+            "r1": 235,
+            "r2": 250,
+            "r3": 265,
+            "r4": 280
+        }
+    },
+    {
+        "itemId": 10034,
+        "spellId": 12085,
+        "name": "Tuxedo Shirt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 245,
+            "r3": 250,
+            "r4": 255
+        }
+    },
+    {
+        "itemId": 10030,
+        "spellId": 12081,
+        "name": "Admiral's Hat",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 3
+            },
+            {
+                "itemId": 4589,
+                "count": 6
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 255,
+            "r3": 270,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 10033,
+        "spellId": 12084,
+        "name": "Red Mageweave Headband",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 255,
+            "r3": 270,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 10031,
+        "spellId": 12082,
+        "name": "Shadoweave Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 6
+            },
+            {
+                "itemId": 10285,
+                "count": 6
+            },
+            {
+                "itemId": 8343,
+                "count": 3
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 240,
+            "r1": 240,
+            "r2": 255,
+            "r3": 270,
+            "r4": 285
+        }
+    },
+    {
+        "itemId": 10035,
+        "spellId": 12089,
+        "name": "Tuxedo Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 4
+            },
+            {
+                "itemId": 8343,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 250,
+            "r3": 255,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 10044,
+        "spellId": 12088,
+        "name": "Cindercloth Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 5
+            },
+            {
+                "itemId": 7077,
+                "count": 1
+            },
+            {
+                "itemId": 8343,
+                "count": 3
+            },
+            {
+                "itemId": 4304,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 260,
+            "r3": 275,
+            "r4": 290
+        }
+    },
+    {
+        "itemId": 10025,
+        "spellId": 12086,
+        "name": "Shadoweave Mask",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 2
+            },
+            {
+                "itemId": 10285,
+                "count": 8
+            },
+            {
+                "itemId": 8343,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 245,
+            "r1": 245,
+            "r2": 260,
+            "r3": 275,
+            "r4": 290
+        }
+    },
+    {
+        "itemId": 14048,
+        "spellId": 18401,
+        "name": "Bolt of Runecloth",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14047,
+                "count": 5
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 255,
+            "r3": 257,
+            "r4": 260
+        }
+    },
+    {
+        "itemId": 10040,
+        "spellId": 12091,
+        "name": "White Wedding Dress",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 5
+            },
+            {
+                "itemId": 8343,
+                "count": 3
+            },
+            {
+                "itemId": 2324,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 255,
+            "r3": 260,
+            "r4": 265
+        }
+    },
+    {
+        "itemId": 10041,
+        "spellId": 12092,
+        "name": "Dreamweave Circlet",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 8
+            },
+            {
+                "itemId": 8153,
+                "count": 4
+            },
+            {
+                "itemId": 10286,
+                "count": 2
+            },
+            {
+                "itemId": 8343,
+                "count": 3
+            },
+            {
+                "itemId": 6037,
+                "count": 1
+            },
+            {
+                "itemId": 1529,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 265,
+            "r3": 280,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 21154,
+        "spellId": 26403,
+        "name": "Festive Red Dress",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 4625,
+                "count": 2
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 265,
+            "r3": 280,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 21542,
+        "spellId": 26407,
+        "name": "Festive Red Pant Suit",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 4625,
+                "count": 2
+            },
+            {
+                "itemId": 2604,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 265,
+            "r3": 280,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 10036,
+        "spellId": 12093,
+        "name": "Tuxedo Jacket",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 4339,
+                "count": 5
+            },
+            {
+                "itemId": 8343,
+                "count": 3
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 265,
+            "r3": 280,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 14342,
+        "spellId": 18560,
+        "name": "Mooncloth",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14256,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 250,
+            "r1": 250,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 13868,
+        "spellId": 18404,
+        "name": "Frostweave Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 7079,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 255,
+            "r1": 255,
+            "r2": 270,
+            "r3": 285,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 13869,
+        "spellId": 18403,
+        "name": "Frostweave Tunic",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 7079,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 255,
+            "r1": 255,
+            "r2": 270,
+            "r3": 285,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 13856,
+        "spellId": 18402,
+        "name": "Runecloth Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 3
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 255,
+            "r1": 255,
+            "r2": 270,
+            "r3": 285,
+            "r4": 300
+        }
+    },
+    {
+        "itemId": 14042,
+        "spellId": 18408,
+        "name": "Cindercloth Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 7077,
+                "count": 3
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 275,
+            "r3": 290,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 14046,
+        "spellId": 18405,
+        "name": "Runecloth Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 8170,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 275,
+            "r3": 290,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 13858,
+        "spellId": 18406,
+        "name": "Runecloth Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 275,
+            "r3": 290,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 13857,
+        "spellId": 18407,
+        "name": "Runecloth Tunic",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 275,
+            "r3": 290,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 21340,
+        "spellId": 26085,
+        "name": "Soul Pouch",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 7972,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 260,
+            "r1": 260,
+            "r2": 275,
+            "r3": 290,
+            "r4": 305
+        }
+    },
+    {
+        "itemId": 13870,
+        "spellId": 18411,
+        "name": "Frostweave Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 3
+            },
+            {
+                "itemId": 7080,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 280,
+            "r3": 295,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 14143,
+        "spellId": 18410,
+        "name": "Ghostweave Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 3
+            },
+            {
+                "itemId": 9210,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 280,
+            "r3": 295,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 13860,
+        "spellId": 18409,
+        "name": "Runecloth Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 265,
+            "r1": 265,
+            "r2": 280,
+            "r3": 295,
+            "r4": 310
+        }
+    },
+    {
+        "itemId": 14101,
+        "spellId": 18415,
+        "name": "Brightcloth Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 3577,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 285,
+            "r3": 300,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 14100,
+        "spellId": 18414,
+        "name": "Brightcloth Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 3577,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 285,
+            "r3": 300,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 14043,
+        "spellId": 18412,
+        "name": "Cindercloth Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 7077,
+                "count": 3
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 285,
+            "r3": 300,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 14142,
+        "spellId": 18413,
+        "name": "Ghostweave Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 9210,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 270,
+            "r1": 270,
+            "r2": 285,
+            "r3": 300,
+            "r4": 315
+        }
+    },
+    {
+        "itemId": 14103,
+        "spellId": 18420,
+        "name": "Brightcloth Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 3577,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 22251,
+        "spellId": 27724,
+        "name": "Cenarion Herb Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 8831,
+                "count": 10
+            },
+            {
+                "itemId": 11040,
+                "count": 8
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 14044,
+        "spellId": 18418,
+        "name": "Cindercloth Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 7078,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 14134,
+        "spellId": 18422,
+        "name": "Cloak of Fire",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 7078,
+                "count": 4
+            },
+            {
+                "itemId": 7077,
+                "count": 4
+            },
+            {
+                "itemId": 7068,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 22248,
+        "spellId": 27659,
+        "name": "Enchanted Runecloth Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 16203,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 14107,
+        "spellId": 18419,
+        "name": "Felcloth Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 14256,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 14141,
+        "spellId": 18416,
+        "name": "Ghostweave Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 9210,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 13863,
+        "spellId": 18417,
+        "name": "Runecloth Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 14132,
+        "spellId": 18421,
+        "name": "Wizardweave Leggings",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 11176,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 275,
+            "r1": 275,
+            "r2": 290,
+            "r3": 305,
+            "r4": 320
+        }
+    },
+    {
+        "itemId": 14045,
+        "spellId": 18434,
+        "name": "Cindercloth Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 7078,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 295,
+            "r3": 310,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 13871,
+        "spellId": 18424,
+        "name": "Frostweave Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 7080,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 295,
+            "r3": 310,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 13864,
+        "spellId": 18423,
+        "name": "Runecloth Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 280,
+            "r1": 280,
+            "r2": 295,
+            "r3": 310,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 18258,
+        "spellId": 22813,
+        "name": "Gordok Ogre Suit",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 18240,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": null,
+            "r2": 285,
+            "r3": 290,
+            "r4": 295
+        }
+    },
+    {
+        "itemId": 21341,
+        "spellId": 26086,
+        "name": "Felcloth Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14256,
+                "count": 12
+            },
+            {
+                "itemId": 12810,
+                "count": 6
+            },
+            {
+                "itemId": 20520,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 300,
+            "r3": 315,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 14108,
+        "spellId": 18437,
+        "name": "Felcloth Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14256,
+                "count": 4
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 300,
+            "r3": 315,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 14136,
+        "spellId": 18436,
+        "name": "Robe of Winter Night",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 10
+            },
+            {
+                "itemId": 14256,
+                "count": 12
+            },
+            {
+                "itemId": 12808,
+                "count": 4
+            },
+            {
+                "itemId": 7080,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 300,
+            "r3": 315,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 13865,
+        "spellId": 18438,
+        "name": "Runecloth Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 285,
+            "r1": 285,
+            "r2": 300,
+            "r3": 315,
+            "r4": 330
+        }
+    },
+    {
+        "itemId": 15802,
+        "spellId": 19435,
+        "name": "Mooncloth Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14342,
+                "count": 4
+            },
+            {
+                "itemId": 7971,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 295,
+            "r3": 310,
+            "r4": 325
+        }
+    },
+    {
+        "itemId": 19056,
+        "spellId": 23664,
+        "name": "Argent Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            },
+            {
+                "itemId": 13926,
+                "count": 2
+            },
+            {
+                "itemId": 12809,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 305,
+            "r3": 320,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 14104,
+        "spellId": 18439,
+        "name": "Brightcloth Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 3577,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 305,
+            "r3": 320,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 14111,
+        "spellId": 18442,
+        "name": "Felcloth Hood",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 14256,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 305,
+            "r3": 320,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 14144,
+        "spellId": 18441,
+        "name": "Ghostweave Pants",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 9210,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 305,
+            "r3": 320,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 14137,
+        "spellId": 18440,
+        "name": "Mooncloth Leggings",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14342,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 305,
+            "r3": 320,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 19047,
+        "spellId": 23662,
+        "name": "Wisdom of the Timbermaw",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 8
+            },
+            {
+                "itemId": 7076,
+                "count": 3
+            },
+            {
+                "itemId": 12803,
+                "count": 3
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 290,
+            "r1": 290,
+            "r2": 305,
+            "r3": 320,
+            "r4": 335
+        }
+    },
+    {
+        "itemId": 13866,
+        "spellId": 18444,
+        "name": "Runecloth Headband",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 295,
+            "r1": 295,
+            "r2": 310,
+            "r3": 325,
+            "r4": 340
+        }
+    },
+    {
+        "itemId": 19059,
+        "spellId": 23665,
+        "name": "Argent Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 5
+            },
+            {
+                "itemId": 12809,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 18405,
+        "spellId": 22866,
+        "name": "Belt of the Archmage",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 16
+            },
+            {
+                "itemId": 9210,
+                "count": 10
+            },
+            {
+                "itemId": 14342,
+                "count": 10
+            },
+            {
+                "itemId": 7080,
+                "count": 12
+            },
+            {
+                "itemId": 7078,
+                "count": 12
+            },
+            {
+                "itemId": 14344,
+                "count": 6
+            },
+            {
+                "itemId": 14341,
+                "count": 6
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22249,
+        "spellId": 27660,
+        "name": "Big Bag of Enchantment",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14344,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 19684,
+        "spellId": 24093,
+        "name": "Bloodvine Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 3
+            },
+            {
+                "itemId": 19726,
+                "count": 3
+            },
+            {
+                "itemId": 12810,
+                "count": 4
+            },
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 19683,
+        "spellId": 24092,
+        "name": "Bloodvine Leggings",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 4
+            },
+            {
+                "itemId": 19726,
+                "count": 4
+            },
+            {
+                "itemId": 12804,
+                "count": 4
+            },
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 19682,
+        "spellId": 24091,
+        "name": "Bloodvine Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 3
+            },
+            {
+                "itemId": 19726,
+                "count": 5
+            },
+            {
+                "itemId": 12804,
+                "count": 4
+            },
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14156,
+        "spellId": 18455,
+        "name": "Bottomless Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 8
+            },
+            {
+                "itemId": 14342,
+                "count": 12
+            },
+            {
+                "itemId": 14344,
+                "count": 2
+            },
+            {
+                "itemId": 17012,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 18413,
+        "spellId": 22870,
+        "name": "Cloak of Warding",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 12809,
+                "count": 4
+            },
+            {
+                "itemId": 12360,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 21342,
+        "spellId": 26087,
+        "name": "Core Felcloth Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14256,
+                "count": 20
+            },
+            {
+                "itemId": 17012,
+                "count": 16
+            },
+            {
+                "itemId": 19726,
+                "count": 8
+            },
+            {
+                "itemId": 7078,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 18407,
+        "spellId": 22867,
+        "name": "Felcloth Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 14256,
+                "count": 20
+            },
+            {
+                "itemId": 12662,
+                "count": 6
+            },
+            {
+                "itemId": 12808,
+                "count": 8
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14106,
+        "spellId": 18451,
+        "name": "Felcloth Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 8
+            },
+            {
+                "itemId": 14256,
+                "count": 8
+            },
+            {
+                "itemId": 12662,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14112,
+        "spellId": 18453,
+        "name": "Felcloth Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 7
+            },
+            {
+                "itemId": 14256,
+                "count": 6
+            },
+            {
+                "itemId": 12662,
+                "count": 4
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 16979,
+        "spellId": 20849,
+        "name": "Flarecore Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 8
+            },
+            {
+                "itemId": 17010,
+                "count": 6
+            },
+            {
+                "itemId": 7078,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 19165,
+        "spellId": 23667,
+        "name": "Flarecore Leggings",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 8
+            },
+            {
+                "itemId": 17010,
+                "count": 5
+            },
+            {
+                "itemId": 17011,
+                "count": 3
+            },
+            {
+                "itemId": 7078,
+                "count": 10
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 16980,
+        "spellId": 20848,
+        "name": "Flarecore Mantle",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 17010,
+                "count": 4
+            },
+            {
+                "itemId": 17011,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 6
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 19156,
+        "spellId": 23666,
+        "name": "Flarecore Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 10
+            },
+            {
+                "itemId": 17010,
+                "count": 2
+            },
+            {
+                "itemId": 17011,
+                "count": 3
+            },
+            {
+                "itemId": 7078,
+                "count": 6
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22660,
+        "spellId": 28210,
+        "name": "Gaea's Embrace",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 19726,
+                "count": 1
+            },
+            {
+                "itemId": 14342,
+                "count": 2
+            },
+            {
+                "itemId": 12803,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22658,
+        "spellId": 28208,
+        "name": "Glacial Cloak",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 22682,
+                "count": 5
+            },
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 7080,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22654,
+        "spellId": 28205,
+        "name": "Glacial Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 22682,
+                "count": 5
+            },
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 7080,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22652,
+        "spellId": 28207,
+        "name": "Glacial Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 22682,
+                "count": 7
+            },
+            {
+                "itemId": 14048,
+                "count": 8
+            },
+            {
+                "itemId": 7080,
+                "count": 6
+            },
+            {
+                "itemId": 14227,
+                "count": 8
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22655,
+        "spellId": 28209,
+        "name": "Glacial Wrists",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 22682,
+                "count": 4
+            },
+            {
+                "itemId": 14048,
+                "count": 2
+            },
+            {
+                "itemId": 7080,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14146,
+        "spellId": 18454,
+        "name": "Gloves of Spell Mastery",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 10
+            },
+            {
+                "itemId": 14342,
+                "count": 10
+            },
+            {
+                "itemId": 9210,
+                "count": 10
+            },
+            {
+                "itemId": 13926,
+                "count": 6
+            },
+            {
+                "itemId": 12364,
+                "count": 6
+            },
+            {
+                "itemId": 12810,
+                "count": 8
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 18408,
+        "spellId": 22868,
+        "name": "Inferno Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 7078,
+                "count": 10
+            },
+            {
+                "itemId": 7910,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 19050,
+        "spellId": 23663,
+        "name": "Mantle of the Timbermaw",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 5
+            },
+            {
+                "itemId": 7076,
+                "count": 5
+            },
+            {
+                "itemId": 12803,
+                "count": 5
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14155,
+        "spellId": 18445,
+        "name": "Mooncloth Bag",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14342,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14140,
+        "spellId": 18452,
+        "name": "Mooncloth Circlet",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14342,
+                "count": 6
+            },
+            {
+                "itemId": 12800,
+                "count": 1
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 18409,
+        "spellId": 22869,
+        "name": "Mooncloth Gloves",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 14342,
+                "count": 6
+            },
+            {
+                "itemId": 13926,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 18486,
+        "spellId": 22902,
+        "name": "Mooncloth Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14342,
+                "count": 4
+            },
+            {
+                "itemId": 13926,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14139,
+        "spellId": 18448,
+        "name": "Mooncloth Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 5
+            },
+            {
+                "itemId": 14342,
+                "count": 5
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14138,
+        "spellId": 18447,
+        "name": "Mooncloth Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14342,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14152,
+        "spellId": 18457,
+        "name": "Robe of the Archmage",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 7078,
+                "count": 10
+            },
+            {
+                "itemId": 7082,
+                "count": 10
+            },
+            {
+                "itemId": 7076,
+                "count": 10
+            },
+            {
+                "itemId": 7080,
+                "count": 10
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14153,
+        "spellId": 18458,
+        "name": "Robe of the Void",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 12662,
+                "count": 20
+            },
+            {
+                "itemId": 14256,
+                "count": 40
+            },
+            {
+                "itemId": 7078,
+                "count": 12
+            },
+            {
+                "itemId": 12808,
+                "count": 12
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 13867,
+        "spellId": 18449,
+        "name": "Runecloth Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 7
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            },
+            {
+                "itemId": 8170,
+                "count": 4
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 20539,
+        "spellId": 24902,
+        "name": "Runed Stygian Belt",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 2
+            },
+            {
+                "itemId": 20520,
+                "count": 6
+            },
+            {
+                "itemId": 14256,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 20537,
+        "spellId": 24903,
+        "name": "Runed Stygian Boots",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 20520,
+                "count": 6
+            },
+            {
+                "itemId": 14256,
+                "count": 4
+            },
+            {
+                "itemId": 12810,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 20538,
+        "spellId": 24901,
+        "name": "Runed Stygian Leggings",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 20520,
+                "count": 8
+            },
+            {
+                "itemId": 14256,
+                "count": 6
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22252,
+        "spellId": 27725,
+        "name": "Satchel of Cenarius",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 14342,
+                "count": 2
+            },
+            {
+                "itemId": 13468,
+                "count": 1
+            },
+            {
+                "itemId": 14227,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22757,
+        "spellId": 28481,
+        "name": "Sylvan Crown",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 14342,
+                "count": 2
+            },
+            {
+                "itemId": 12803,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22758,
+        "spellId": 28482,
+        "name": "Sylvan Shoulders",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 2
+            },
+            {
+                "itemId": 12803,
+                "count": 4
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 22756,
+        "spellId": 28480,
+        "name": "Sylvan Vest",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 4
+            },
+            {
+                "itemId": 19726,
+                "count": 2
+            },
+            {
+                "itemId": 12803,
+                "count": 2
+            },
+            {
+                "itemId": 14227,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14154,
+        "spellId": 18456,
+        "name": "Truefaith Vestments",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 12
+            },
+            {
+                "itemId": 14342,
+                "count": 10
+            },
+            {
+                "itemId": 12811,
+                "count": 4
+            },
+            {
+                "itemId": 13926,
+                "count": 4
+            },
+            {
+                "itemId": 9210,
+                "count": 10
+            },
+            {
+                "itemId": 14341,
+                "count": 2
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14128,
+        "spellId": 18446,
+        "name": "Wizardweave Robe",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 8
+            },
+            {
+                "itemId": 11176,
+                "count": 2
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 14130,
+        "spellId": 18450,
+        "name": "Wizardweave Turban",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14048,
+                "count": 6
+            },
+            {
+                "itemId": 11176,
+                "count": 4
+            },
+            {
+                "itemId": 7910,
+                "count": 1
+            },
+            {
+                "itemId": 14341,
+                "count": 1
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 315,
+            "r3": 330,
+            "r4": 345
+        }
+    },
+    {
+        "itemId": 18263,
+        "spellId": 22759,
+        "name": "Flarecore Wraps",
+        "count": null,
+        "type": "Tailoring",
+        "mats": [
+            {
+                "itemId": 14342,
+                "count": 6
+            },
+            {
+                "itemId": 17010,
+                "count": 8
+            },
+            {
+                "itemId": 7078,
+                "count": 2
+            },
+            {
+                "itemId": 12810,
+                "count": 6
+            },
+            {
+                "itemId": 14341,
+                "count": 4
+            }
+        ],
+        "lvl": {
+            "req": 300,
+            "r1": 300,
+            "r2": 320,
+            "r3": 335,
+            "r4": 350
+        }
+    }
+]
